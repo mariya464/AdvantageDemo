@@ -1,0 +1,70 @@
+Virtual User Script started at: 30.04.2022 11:08:05
+Starting action vuser_init.
+Web Turbo Replay of LoadRunner 2020.0.0 for Windows 10; build 793 (ноя 27 2019 19:51:20)  	[MsgId: MMSG-26983]
+Run mode: HTML  	[MsgId: MMSG-26993]
+Replay user agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36  	[MsgId: MMSG-26988]
+Runtime Settings file: "C:\Users\Professional\Desktop\обучение\НТ\Advantage Demo\Scripts\UC03\\default.cfg"  	[MsgId: MMSG-27141]
+Ending action vuser_init.
+Running Vuser...
+Starting iteration 1.
+Maximum number of concurrent connections per server: 6  	[MsgId: MMSG-26989]
+Starting action Action.
+Action.c(3): Notify: Transaction "UC03_ViewProducts" started.
+Action.c(5): Notify: Transaction "open_site" started.
+Action.c(7): web_set_sockets_option started  	[MsgId: MMSG-26355]
+Action.c(7): web_set_sockets_option was successful  	[MsgId: MMSG-26392]
+Action.c(15): web_url("ALL") started  	[MsgId: MMSG-26355]
+Action.c(15): web_url("ALL") was successful, 6541 body bytes, 335 header bytes, 106 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(25): web_add_header("Access-Control-Request-Headers") started  	[MsgId: MMSG-26355]
+Action.c(25): web_add_header("Access-Control-Request-Headers") was successful  	[MsgId: MMSG-26392]
+Action.c(28): web_add_header("Access-Control-Request-Method") started  	[MsgId: MMSG-26355]
+Action.c(28): web_add_header("Access-Control-Request-Method") was successful  	[MsgId: MMSG-26392]
+Action.c(31): web_add_auto_header("Origin") started  	[MsgId: MMSG-26355]
+Action.c(31): web_add_auto_header("Origin") was successful  	[MsgId: MMSG-26392]
+Action.c(34): web_add_header("Sec-Fetch-Mode") started  	[MsgId: MMSG-26355]
+Action.c(34): web_add_header("Sec-Fetch-Mode") was successful  	[MsgId: MMSG-26392]
+Action.c(37): web_custom_request("GetAccountConfigurationRequest") started  	[MsgId: MMSG-26355]
+Action.c(37): web_custom_request("GetAccountConfigurationRequest") was successful, 2 body bytes, 500 header bytes, 10 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(47): web_add_header("SOAPAction") started  	[MsgId: MMSG-26355]
+Action.c(47): web_add_header("SOAPAction") was successful  	[MsgId: MMSG-26392]
+Action.c(50): web_custom_request("GetAccountConfigurationRequest_2") started  	[MsgId: MMSG-26355]
+Action.c(50): web_custom_request("GetAccountConfigurationRequest_2") was successful, 823 body bytes, 619 header bytes  	[MsgId: MMSG-26386]
+Action.c(63): web_add_cookie started  	[MsgId: MMSG-26355]
+Action.c(63): web_add_cookie was successful  	[MsgId: MMSG-26392]
+Action.c(65): web_remove_auto_header("Origin") started  	[MsgId: MMSG-26355]
+Action.c(65): Previous automatically added web header for "Origin" removed  	[MsgId: MMSG-26587]
+Action.c(65): web_remove/revert_auto_header("Origin") was successful  	[MsgId: MMSG-26392]
+Action.c(67): web_url("categories") started  	[MsgId: MMSG-26355]
+Action.c(67): web_url("categories") was successful, 4481 body bytes, 335 header bytes, 78 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(77): web_url("search") started  	[MsgId: MMSG-26355]
+Action.c(77): web_url("search") was successful, 351 body bytes, 335 header bytes, 22 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(87): Notify: Transaction "open_site" ended with a "Pass" status (Duration: 1.9558 Wasted Time: 0.2128).
+Action.c(89): lr_think_time: 5.00 seconds.
+Action.c(91): Notify: Transaction "click_laptops" started.
+Action.c(93): web_reg_find started  	[MsgId: MMSG-26355]
+Action.c(93): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(96): web_url("products") started  	[MsgId: MMSG-26355]
+Action.c(96): Registered web_reg_find successful for "Text=LAPTOPS" (count=2)  	[MsgId: MMSG-26364]
+Action.c(96): web_url("products") was successful, 3018 body bytes, 335 header bytes, 57 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(106): web_url("attributes") started  	[MsgId: MMSG-26355]
+Action.c(106): web_url("attributes") was successful, 552 body bytes, 335 header bytes, 28 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(116): Notify: Transaction "click_laptops" ended with a "Pass" status (Duration: 0,6239 Wasted Time: 0,0200).
+Action.c(118): lr_think_time: 15,00 seconds.
+Action.c(120): Notify: Transaction "selection_laptops" started.
+Action.c(122): web_url("all_data") started  	[MsgId: MMSG-26355]
+Action.c(122): web_url("all_data") was successful, 8549 body bytes, 335 header bytes, 134 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(132): web_url("10") started  	[MsgId: MMSG-26355]
+Action.c(132): web_url("10") was successful, 581 body bytes, 335 header bytes, 28 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(142): web_url("product-page.html") started  	[MsgId: MMSG-26355]
+Action.c(142): Found resource "http://18.212.178.84/css/images/review_right.png" in HTML "http://18.212.178.84/app/views/product-page.html"  	[MsgId: MMSG-26659]
+Action.c(142): Found resource "http://18.212.178.84/css/images/reviewUser.png" in HTML "http://18.212.178.84/app/views/product-page.html"  	[MsgId: MMSG-26659]
+Action.c(142): Found resource "http://18.212.178.84/css/images/review_Left_disabled.png" in HTML "http://18.212.178.84/app/views/product-page.html"  	[MsgId: MMSG-26659]
+Action.c(142): web_url("product-page.html") was successful, 6064 body bytes, 1320 header bytes, 45 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(152): Notify: Transaction "selection_laptops" ended with a "Pass" status (Duration: 1.2872 Wasted Time: 0.0316).
+Action.c(153): Notify: Transaction "UC03_ViewProducts" ended with a "Pass" status (Duration: 23.9412 Think Time: 20.0031 Wasted Time: 0.2644).
+Ending action Action.
+Ending iteration 1.
+Ending Vuser...
+Starting action vuser_end.
+Ending action vuser_end.
+Vuser Terminated.

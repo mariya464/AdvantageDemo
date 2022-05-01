@@ -1,0 +1,13 @@
+[t5]
+FileName1=t5_search.json
+URL1=http://18.212.178.84/catalog/api/v1/deals/search?dealOfTheDay=true
+Total=2
+ContentType=application/json
+SnapshotXmlFile=snapshot_5.xml
+RequestHeaderFile=t5_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t5_ResponseHeader.txt
+FileName2=t5_FacebookLogo.png
+URL2=http://18.212.178.84/css/images/FacebookLogo.png
+[ProtocolInfo]
+ProtocolId=QTWeb

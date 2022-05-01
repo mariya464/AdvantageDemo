@@ -1,0 +1,4 @@
+"{\"seaddress\":{\"addressLine1\":\"street\",\"addressLine2\":\"\",\"city\":\"Moscow\",\"countr"
+"y\":\"us\",\"postalCode\":547859,\"state\":\"region\"},\"secustomerName\":\"Ivan Ivanov\",\"se"
+"customerPhone\":\"+79601235544\",\"senumberOfProducts\":1,\"setransactionType\":\"SHIPPING_COS"
+"T\",\"sessionId\":\"624EC0DB9E691806555C4A12A298D7C3\"}"

@@ -1,0 +1,13 @@
+[t13]
+FileName1=t13_products.json
+URL1=http://18.212.178.84/catalog/api/v1/categories/5/products
+Total=2
+ContentType=application/json
+SnapshotXmlFile=snapshot_13.xml
+RequestHeaderFile=t13_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t13_ResponseHeader.txt
+FileName2=t13_fetchImage.jpg
+URL2=http://18.212.178.84/catalog/fetchImage?image_id=5201
+[ProtocolInfo]
+ProtocolId=QTWeb

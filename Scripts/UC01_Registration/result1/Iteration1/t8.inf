@@ -1,0 +1,13 @@
+[t8]
+SnapshotXmlFile=snapshot_8.xml
+ContentType=application/xml
+StepName=Custom Request: GetCountriesRequest_2
+Total=1
+FileName1=t8.xml
+RequestHeaderFile=t8_RequestHeader.txt
+ResponseHeaderFile=t8_ResponseHeader.txt
+RawStepEndTime=1651305167951
+RawStepName=GetCountriesRequest_2
+RequestBodyFile=t8_RequestBody.txt
+RawStepStartTime=1651305166092
+URL1=http://18.212.178.84:8081//accountservice/ws/GetCountriesRequest

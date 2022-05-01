@@ -1,0 +1,13 @@
+DELETE /order/api/v1/carts/729314003 HTTP/1.1
+Authorization: Basic Z2Fic3M6NTY4OTc0R2Fi
+Referer: http://18.212.178.84/
+Origin: http://18.212.178.84
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Accept: */*
+Connection: Keep-Alive
+Host: 18.212.178.84
+Cookie: JSESSIONID=3ADA4AC99AB2E171AC996016C91A3A2C; _gat=1
+Content-Length: 0
+

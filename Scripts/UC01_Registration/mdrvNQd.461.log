@@ -1,0 +1,14 @@
+Start auto log messages stack - Iteration 37.	[MsgId: MMSG-10545]
+Action.c(162): web_add_header("Access-Control-Request-Method") started  	[MsgId: MMSG-26355]
+Action.c(162): web_add_header("Access-Control-Request-Method") was successful  	[MsgId: MMSG-26392]
+Action.c(165): web_add_header("Sec-Fetch-Mode") started  	[MsgId: MMSG-26355]
+Action.c(165): web_add_header("Sec-Fetch-Mode") was successful  	[MsgId: MMSG-26392]
+Action.c(168): lr_think_time: 46,00 seconds.	[MsgId: MMSG-15948]
+Action.c(171): web_add_header("SOAPAction") started  	[MsgId: MMSG-26355]
+Action.c(171): web_add_header("SOAPAction") was successful  	[MsgId: MMSG-26392]
+Action.c(174): web_custom_request("AccountCreateRequest") started  	[MsgId: MMSG-26355]
+Action.c(174): Error -26612: HTTP Status-Code=500 (Internal Server Error) for "http://18.212.178.84:8081//accountservice/ws/AccountCreateRequest"  	[MsgId: MERR-26612]
+Action.c(174): Error -26366: "Text=New user created successfully" not found for web_reg_find  	[MsgId: MERR-26366]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+

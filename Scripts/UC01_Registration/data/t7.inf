@@ -1,0 +1,15 @@
+[t7]
+FileName1=t7.html
+URL1=http://18.212.178.84:8081//accountservice/ws/GetCountriesRequest
+Total=3
+RequestHeaderFile=t7_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t7_ResponseHeader.txt
+ContentType=image/png
+SnapshotXmlFile=snapshot_7.xml
+FileName2=t7_Bell.png
+URL2=http://18.212.178.84/css/images/Bell.png
+FileName3=t7_Check.png
+URL3=http://18.212.178.84/css/images/Check.png
+[ProtocolInfo]
+ProtocolId=QTWeb

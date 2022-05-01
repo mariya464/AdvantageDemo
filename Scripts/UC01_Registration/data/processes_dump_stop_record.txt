@@ -1,0 +1,357 @@
+Failed to get information of process Id: 0
+Failed to get information of process Id: 4
+Failed to get information of process Id: 88
+Failed to get information of process Id: 336
+Failed to get information of process Id: 520
+Failed to get information of process Id: 644
+Failed to get information of process Id: 660
+Failed to get information of process Id: 712
+Failed to get information of process Id: 728
+Failed to get information of process Id: 788
+Failed to get information of process Id: 900
+Failed to get information of process Id: 896
+Failed to get information of process Id: 916
+Failed to get information of process Id: 984
+Failed to get information of process Id: 308
+Failed to get information of process Id: 432
+Failed to get information of process Id: 1000
+Failed to get information of process Id: 1136
+Failed to get information of process Id: 1164
+Failed to get information of process Id: 1180
+Failed to get information of process Id: 1224
+Failed to get information of process Id: 1248
+Failed to get information of process Id: 1308
+Failed to get information of process Id: 1412
+Failed to get information of process Id: 1444
+Failed to get information of process Id: 1536
+Failed to get information of process Id: 1592
+Failed to get information of process Id: 1620
+Failed to get information of process Id: 1668
+Failed to get information of process Id: 1676
+Failed to get information of process Id: 1748
+Failed to get information of process Id: 1796
+Failed to get information of process Id: 1960
+Failed to get information of process Id: 1988
+Failed to get information of process Id: 1292
+Failed to get information of process Id: 1040
+Failed to get information of process Id: 2152
+Failed to get information of process Id: 2224
+Failed to get information of process Id: 2232
+Failed to get information of process Id: 2240
+Failed to get information of process Id: 2252
+Failed to get information of process Id: 2332
+Failed to get information of process Id: 2344
+Failed to get information of process Id: 2368
+Failed to get information of process Id: 2536
+Failed to get information of process Id: 2712
+Failed to get information of process Id: 2824
+Failed to get information of process Id: 2836
+Failed to get information of process Id: 2856
+Failed to get information of process Id: 2976
+Failed to get information of process Id: 2996
+Failed to get information of process Id: 3012
+Failed to get information of process Id: 1884
+Failed to get information of process Id: 3152
+Failed to get information of process Id: 3252
+Failed to get information of process Id: 3388
+Failed to get information of process Id: 3472
+Failed to get information of process Id: 3544
+Failed to get information of process Id: 3600
+Failed to get information of process Id: 3628
+Failed to get information of process Id: 3640
+Failed to get information of process Id: 3704
+Failed to get information of process Id: 3768
+Failed to get information of process Id: 3908
+Failed to get information of process Id: 4048
+Failed to get information of process Id: 3632
+Failed to get information of process Id: 2908
+Failed to get information of process Id: 4128
+Failed to get information of process Id: 4136
+Failed to get information of process Id: 4152
+Failed to get information of process Id: 4172
+Failed to get information of process Id: 4200
+Failed to get information of process Id: 4268
+Failed to get information of process Id: 4280
+Failed to get information of process Id: 4308
+Failed to get information of process Id: 4332
+Failed to get information of process Id: 4384
+Failed to get information of process Id: 4392
+Failed to get information of process Id: 4440
+Failed to get information of process Id: 4456
+Failed to get information of process Id: 4464
+Failed to get information of process Id: 4492
+Failed to get information of process Id: 4664
+Failed to get information of process Id: 4780
+Failed to get information of process Id: 4844
+Failed to get information of process Id: 5304
+Failed to get information of process Id: 5320
+Failed to get information of process Id: 5380
+Failed to get information of process Id: 5472
+Failed to get information of process Id: 5568
+Failed to get information of process Id: 5612
+Failed to get information of process Id: 5696
+Failed to get information of process Id: 5720
+Failed to get information of process Id: 5860
+Failed to get information of process Id: 5888
+Failed to get information of process Id: 6000
+Failed to get information of process Id: 6096
+Failed to get information of process Id: 4692
+Failed to get information of process Id: 5048
+Failed to get information of process Id: 1632
+Failed to get information of process Id: 5876
+Failed to get information of process Id: 2580
+Failed to get information of process Id: 6168
+Failed to get information of process Id: 6200
+Failed to get information of process Id: 6268
+Failed to get information of process Id: 6280
+Failed to get information of process Id: 6296
+Failed to get information of process Id: 6312
+Failed to get information of process Id: 6344
+Failed to get information of process Id: 6364
+Failed to get information of process Id: 6372
+Failed to get information of process Id: 6380
+Failed to get information of process Id: 6396
+Failed to get information of process Id: 6404
+Failed to get information of process Id: 6828
+Failed to get information of process Id: 6944
+Failed to get information of process Id: 5104
+Failed to get information of process Id: 5228
+Failed to get information of process Id: 7444
+Failed to get information of process Id: 7612
+Failed to get information of process Id: 7684
+Failed to get information of process Id: 8004
+Failed to get information of process Id: 8052
+Failed to get information of process Id: 8080
+Failed to get information of process Id: 6864
+Failed to get information of process Id: 7284
+PROCESS 0x1c7c      magentproc.exe
+Failed to get information of process Id: 7856
+Failed to get information of process Id: 7224
+PROCESS 0x1550      jusched.exe
+Failed to get information of process Id: 3260
+Failed to get information of process Id: 3800
+Failed to get information of process Id: 352
+Failed to get information of process Id: 2852
+Failed to get information of process Id: 3408
+Failed to get information of process Id: 4076
+PROCESS 0x13e4      jucheck.exe
+Failed to get information of process Id: 1176
+Failed to get information of process Id: 7024
+Failed to get information of process Id: 7208
+Failed to get information of process Id: 7252
+Failed to get information of process Id: 2484
+Failed to get information of process Id: 2000
+Failed to get information of process Id: 8876
+Failed to get information of process Id: 8800
+Failed to get information of process Id: 9180
+Failed to get information of process Id: 6852
+Failed to get information of process Id: 8248
+PROCESS 0x1764      summarypage.exe
+PROCESS 0x227c      cefsharp.browsersubprocess.exe
+PROCESS 0x17e4      excel.exe
+Failed to get information of process Id: 8824
+Failed to get information of process Id: 7280
+Failed to get information of process Id: 5736
+Failed to get information of process Id: 9192
+Failed to get information of process Id: 8680
+Failed to get information of process Id: 5076
+Failed to get information of process Id: 8196
+Failed to get information of process Id: 952
+Failed to get information of process Id: 8264
+Failed to get information of process Id: 5128
+Failed to get information of process Id: 7708
+Failed to get information of process Id: 3992
+Failed to get information of process Id: 12592
+Failed to get information of process Id: 9268
+Failed to get information of process Id: 11192
+Failed to get information of process Id: 5016
+PROCESS 0x2d10      vugen.exe
+PROCESS 0x20bc      eowp.exe
+Failed to get information of process Id: 11628
+PROCESS 0x32b0      eowp.exe
+Failed to get information of process Id: 11564
+PROCESS 0x216c      eowp.exe
+Failed to get information of process Id: 11692
+Failed to get information of process Id: 12348
+Failed to get information of process Id: 11664
+Failed to get information of process Id: 10044
+Failed to get information of process Id: 172
+Failed to get information of process Id: 12020
+Failed to get information of process Id: 3432
+Failed to get information of process Id: 11568
+Failed to get information of process Id: 7720
+Failed to get information of process Id: 9524
+Failed to get information of process Id: 9804
+Failed to get information of process Id: 9124
+Failed to get information of process Id: 1052
+Failed to get information of process Id: 7764
+Failed to get information of process Id: 8276
+PROCESS 0x2390      winword.exe
+		12.0.4518.1014                C:\Program Files (x86)\Microsoft Office\Office12\WINWORD.EXE
+		10.0.17763.2452 (WinBuild.160101.0800)C:\Windows\SYSTEM32\ntdll.dll
+		10.0.17763.1 (WinBuild.160101.0800)C:\Windows\System32\KERNEL32.DLL
+		10.0.17763.1 (WinBuild.160101.0800)C:\Windows\System32\KERNELBASE.dll
+		10.0.17763.2920 (WinBuild.160101.0800)C:\Windows\SYSTEM32\apphelp.dll
+		10.0.17763.1 (WinBuild.160101.0800)C:\Windows\SYSTEM32\AcSpecfc.DLL
+		7.0.17763.475 (WinBuild.160101.0800)C:\Windows\System32\msvcrt.dll
+		10.0.17763.1490 (WinBuild.160101.0800)C:\Windows\System32\SspiCli.dll
+		10.0.17763.2920 (WinBuild.160101.0800)C:\Windows\System32\RPCRT4.dll
+		10.0.17763.1 (WinBuild.160101.0800)C:\Windows\System32\CRYPTBASE.dll
+		10.0.17763.2366 (WinBuild.160101.0800)C:\Windows\System32\bcryptPrimitives.dll
+		10.0.17763.1 (WinBuild.160101.0800)C:\Windows\System32\sechost.dll
+		10.0.17763.2920 (WinBuild.160101.0800)C:\Windows\System32\SHLWAPI.dll
+		10.0.17763.2920 (WinBuild.160101.0800)C:\Windows\System32\combase.dll
+		10.0.17763.1490 (WinBuild.160101.0800)C:\Windows\System32\ucrtbase.dll
+		10.0.17763.1697 (WinBuild.160101.0800)C:\Windows\System32\GDI32.dll
+		10.0.17763.2452 (WinBuild.160101.0800)C:\Windows\System32\gdi32full.dll
+		10.0.17763.1 (WinBuild.160101.0800)C:\Windows\System32\msvcp_win.dll
+		10.0.17763.2920 (WinBuild.160101.0800)C:\Windows\System32\USER32.dll
+		10.0.17763.1 (WinBuild.160101.0800)C:\Windows\System32\win32u.dll
+		10.0.17763.2920 (WinBuild.160101.0800)C:\Windows\System32\ADVAPI32.dll
+		10.0.17763.2920 (WinBuild.160101.0800)C:\Windows\System32\ole32.dll
+		10.0.17763.2145 (WinBuild.160101.0800)C:\Windows\System32\SHELL32.dll
+		10.0.17763.1 (WinBuild.160101.0800)C:\Windows\System32\cfgmgr32.dll
+		10.0.17763.2920 (WinBuild.160101.0800)C:\Windows\System32\shcore.dll
+		10.0.17763.2920 (WinBuild.160101.0800)C:\Windows\System32\windows.storage.dll
+		10.0.17763.1075 (WinBuild.160101.0800)C:\Windows\System32\profapi.dll
+		10.0.17763.2920 (WinBuild.160101.0800)C:\Windows\System32\powrprof.dll
+		10.0.17763.1 (WinBuild.160101.0800)C:\Windows\System32\kernel.appcore.dll
+		10.0.17763.1 (WinBuild.160101.0800)C:\Windows\System32\cryptsp.dll
+		10.0.17763.1935 (WinBuild.160101.0800)C:\Windows\System32\OLEAUT32.dll
+		10.0.17763.2920 (WinBuild.160101.0800)C:\Windows\System32\WS2_32.dll
+		10.0.17763.2920 (WinBuild.160101.0800)C:\Windows\System32\COMDLG32.dll
+		10.0.17763.719 (WinBuild.160101.0800)C:\Windows\System32\IMM32.dll
+		5.82 (WinBuild.160101.0800)   C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_5.82.17763.2565_none_b4b5be156e73e52d\COMCTL32.dll
+		10.0.17763.2920 (WinBuild.160101.0800)C:\Windows\SYSTEM32\mscms.dll
+		10.0.17763.2920 (WinBuild.160101.0800)C:\Windows\SYSTEM32\USERENV.dll
+		10.0.17763.2920 (WinBuild.160101.0800)C:\Windows\SYSTEM32\MPR.dll
+		10.0.17763.2920 (WinBuild.160101.0800)C:\Windows\SYSTEM32\WINMM.dll
+		10.0.17763.2920 (WinBuild.160101.0800)C:\Windows\SYSTEM32\DDRAW.dll
+		10.0.17763.2920 (WinBuild.160101.0800)C:\Windows\SYSTEM32\dwmapi.dll
+		10.0.17763.2920 (WinBuild.160101.0800)C:\Windows\System32\CRYPT32.dll
+		10.0.17763.1 (WinBuild.160101.0800)C:\Windows\System32\MSASN1.dll
+		5.0.17763.2452                C:\Windows\SYSTEM32\msi.dll
+		10.0.17763.2920 (WinBuild.160101.0800)C:\Windows\System32\bcrypt.dll
+		10.0.17763.2920 (WinBuild.160101.0800)C:\Windows\SYSTEM32\WINSPOOL.DRV
+		10.0.17763.1 (WinBuild.160101.0800)C:\Windows\SYSTEM32\ColorAdapterClient.dll
+		10.0.17763.1 (WinBuild.160101.0800)C:\Windows\SYSTEM32\WINMMBASE.dll
+		10.0.17763.1697 (WinBuild.160101.0800)C:\Windows\SYSTEM32\dxgi.dll
+		10.0.17763.1 (WinBuild.160101.0800)C:\Windows\SYSTEM32\DCIMAN32.dll
+		7.0.17763.2920 (WinBuild.160101.0800)C:\Windows\SYSTEM32\PROPSYS.dll
+		10.0.17763.2920 (WinBuild.160101.0800)C:\Windows\SYSTEM32\IPHLPAPI.DLL
+		10.0.17763.831 (WinBuild.160101.0800)C:\Windows\SYSTEM32\AcGenral.DLL
+		10.0.17763.2920 (WinBuild.160101.0800)C:\Windows\SYSTEM32\UxTheme.dll
+		10.0.17763.1 (WinBuild.160101.0800)C:\Windows\SYSTEM32\samcli.dll
+		10.0.17763.2920 (WinBuild.160101.0800)C:\Windows\SYSTEM32\MSACM32.dll
+		10.0.17763.1 (WinBuild.160101.0800)C:\Windows\SYSTEM32\VERSION.dll
+		11.00.17763.2920 (WinBuild.160101.0800)C:\Windows\SYSTEM32\urlmon.dll
+		11.00.17763.2920 (WinBuild.160101.0800)C:\Windows\SYSTEM32\iertutil.dll
+		10.0.17763.1 (WinBuild.160101.0800)C:\Windows\SYSTEM32\srvcli.dll
+		10.0.17763.1 (WinBuild.160101.0800)C:\Windows\SYSTEM32\netutils.dll
+		8.00.50727.9554               C:\Windows\WinSxS\x86_microsoft.vc80.crt_1fc8b3b9a1e18e3b_8.0.50727.9554_none_d08d6fa2442aa556\MSVCR80.dll
+		12.0.4518.1014                C:\Program Files (x86)\Microsoft Office\Office12\wwlib.dll
+		12.0.4518.1014                C:\Program Files (x86)\Microsoft Office\Office12\oart.dll
+		12.0.4518.1014                C:\Program Files (x86)\Common Files\Microsoft Shared\office12\mso.dll
+		12.0.4518.1014                C:\Program Files (x86)\Microsoft Office\Office12\1049\wwintl.dll
+		6.10 (WinBuild.160101.0800)   C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.17763.2565_none_2620aa5767c57d64\Comctl32.dll
+		10.0.17763.2920 (WinBuild.160101.0800)C:\Windows\SYSTEM32\srpapi.dll
+		                              C:\Program Files (x86)\Common Files\Microsoft Shared\OFFICE12\MSPTLS.DLL
+		10.0.17763.2920 (WinBuild.160101.0800)C:\Windows\System32\MSCTF.dll
+		12.0.4518.1014                C:\Program Files (x86)\Common Files\Microsoft Shared\OFFICE12\MSORES.DLL
+		12.0.4518.1014                C:\Program Files (x86)\Common Files\Microsoft Shared\office12\1049\MSOINTL.DLL
+		10.0.17763.1 (WinBuild.160101.0800)C:\Windows\system32\mscoree.dll
+		4.8.4180.0 built by: NET48REL1LAST_BC:\Windows\Microsoft.NET\Framework\v4.0.30319\mscoreei.dll
+		2001.12.10941.16384 (WinBuild.160101.0800)C:\Windows\System32\clbcatq.dll
+		10.0.17763.1852 (WinBuild.160101.0800)C:\Windows\System32\netprofm.dll
+		10.0.17763.316 (WinBuild.160101.0800)C:\Windows\System32\npmproxy.dll
+		10.0.17763.1554 (WinBuild.160101.0800)C:\Windows\System32\NSI.dll
+		10.0.17763.2920 (WinBuild.160101.0800)C:\Windows\SYSTEM32\dhcpcsvc6.DLL
+		10.0.17763.2920 (WinBuild.160101.0800)C:\Windows\SYSTEM32\dhcpcsvc.DLL
+		10.0.17763.2920 (WinBuild.160101.0800)C:\Windows\SYSTEM32\DNSAPI.dll
+		12.0.4518.1014                C:\Program Files (x86)\Common Files\Microsoft Shared\office12\riched20.dll
+		10.0.17763.2920 (WinBuild.160101.0800)C:\Windows\SYSTEM32\sxs.dll
+		10.0.17763.1075 (WinBuild.160101.0800)C:\Windows\System32\coml2.dll
+		4.18.2203.5 (WinBuild.160101.0800)C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.2203.5-0\X86\MpOav.dll
+		10.0.17763.2920 (WinBuild.160101.0800)C:\Windows\SYSTEM32\gpapi.dll
+		5.20.1072.0                   C:\Program Files (x86)\Common Files\Microsoft Shared\OFFICE11\msxml5.dll
+		12.0.4518                     C:\Program Files (x86)\Microsoft Office\Office12\MSOSTYLE.DLL
+		10.0.17763.2510 (WinBuild.160101.0800)C:\Windows\SYSTEM32\TextInputFramework.dll
+		10.0.17763.1821               C:\Windows\SYSTEM32\CoreMessaging.dll
+		10.0.17763.1554               C:\Windows\SYSTEM32\CoreUIComponents.dll
+		10.0.17763.2920 (WinBuild.160101.0800)C:\Windows\SYSTEM32\ntmarta.dll
+		10.0.17763.2920 (WinBuild.160101.0800)C:\Windows\SYSTEM32\wintypes.dll
+		10.0.17763.2330 (WinBuild.160101.0800)C:\Windows\system32\dataexchange.dll
+		10.0.17763.1697 (WinBuild.160101.0800)C:\Windows\system32\d3d11.dll
+		10.0.17763.2183 (WinBuild.160101.0800)C:\Windows\system32\dcomp.dll
+		10.0.17763.2920 (WinBuild.160101.0800)C:\Windows\system32\twinapi.appcore.dll
+		10.0.17763.1697 (WinBuild.160101.0800)C:\Windows\system32\RMCLIENT.dll
+		10.0.17763.1971 (WinBuild.160101.0800)C:\Windows\SYSTEM32\policymanager.dll
+		10.0.17763.1 (WinBuild.160101.0800)C:\Windows\SYSTEM32\msvcp110_win.dll
+		6.0.4518.1014                 C:\Program Files (x86)\Microsoft Office\Office12\msproof6.dll
+		8.00.50727.9554               C:\Windows\WinSxS\x86_microsoft.vc80.crt_1fc8b3b9a1e18e3b_8.0.50727.9554_none_d08d6fa2442aa556\MSVCP80.dll
+		10.0.17763.2920 (WinBuild.160101.0800)C:\Windows\SYSTEM32\edputil.dll
+		3.1.8721                      C:\Program Files (x86)\Common Files\Microsoft Shared\PROOF\MSLID.DLL
+		3.1.8709                      C:\Program Files (x86)\Common Files\Microsoft Shared\PROOF\1033\MSGR3EN.DLL
+		                              C:\PROGRA~2\COMMON~1\MICROS~1\PROOF\1049\MSGRRU32.DLL
+PROCESS 0x2b70      cuh.exe
+		13.0.0.577                    C:\Program Files (x86)\Corel\CUH\v2\CUH.exe
+		10.0.17763.2452 (WinBuild.160101.0800)C:\Windows\SYSTEM32\ntdll.dll
+		10.0.17763.1 (WinBuild.160101.0800)C:\Windows\System32\KERNEL32.DLL
+		10.0.17763.1 (WinBuild.160101.0800)C:\Windows\System32\KERNELBASE.dll
+		10.0.17763.2920 (WinBuild.160101.0800)C:\Windows\System32\SHLWAPI.dll
+		7.0.17763.475 (WinBuild.160101.0800)C:\Windows\System32\msvcrt.dll
+		10.0.17763.2920 (WinBuild.160101.0800)C:\Windows\System32\combase.dll
+		10.0.17763.1490 (WinBuild.160101.0800)C:\Windows\System32\ucrtbase.dll
+		10.0.17763.2920 (WinBuild.160101.0800)C:\Windows\System32\RPCRT4.dll
+		10.0.17763.1490 (WinBuild.160101.0800)C:\Windows\System32\SspiCli.dll
+		10.0.17763.1 (WinBuild.160101.0800)C:\Windows\System32\CRYPTBASE.dll
+		10.0.17763.2366 (WinBuild.160101.0800)C:\Windows\System32\bcryptPrimitives.dll
+		10.0.17763.1 (WinBuild.160101.0800)C:\Windows\System32\sechost.dll
+		10.0.17763.1697 (WinBuild.160101.0800)C:\Windows\System32\GDI32.dll
+		10.0.17763.2452 (WinBuild.160101.0800)C:\Windows\System32\gdi32full.dll
+		10.0.17763.1 (WinBuild.160101.0800)C:\Windows\System32\msvcp_win.dll
+		10.0.17763.2920 (WinBuild.160101.0800)C:\Windows\System32\USER32.dll
+		10.0.17763.1 (WinBuild.160101.0800)C:\Windows\System32\win32u.dll
+		10.0.17763.2920 (WinBuild.160101.0800)C:\Windows\System32\ADVAPI32.dll
+		10.0.17763.2145 (WinBuild.160101.0800)C:\Windows\System32\SHELL32.dll
+		10.0.17763.1 (WinBuild.160101.0800)C:\Windows\System32\cfgmgr32.dll
+		10.0.17763.2920 (WinBuild.160101.0800)C:\Windows\System32\shcore.dll
+		10.0.17763.2920 (WinBuild.160101.0800)C:\Windows\System32\windows.storage.dll
+		10.0.17763.1075 (WinBuild.160101.0800)C:\Windows\System32\profapi.dll
+		10.0.17763.2920 (WinBuild.160101.0800)C:\Windows\System32\powrprof.dll
+		10.0.17763.1 (WinBuild.160101.0800)C:\Windows\System32\kernel.appcore.dll
+		10.0.17763.1 (WinBuild.160101.0800)C:\Windows\System32\cryptsp.dll
+		10.0.17763.2920 (WinBuild.160101.0800)C:\Windows\System32\ole32.dll
+		10.0.17763.1935 (WinBuild.160101.0800)C:\Windows\System32\OLEAUT32.dll
+		10.0.17763.719 (WinBuild.160101.0800)C:\Windows\System32\IMM32.dll
+		10.0.17763.1 (WinBuild.160101.0800)C:\Windows\System32\imagehlp.dll
+		10.0.17763.1 (WinBuild.160101.0800)C:\Windows\SYSTEM32\Secur32.dll
+		10.0.17763.1 (WinBuild.160101.0800)C:\Windows\SYSTEM32\MSIMG32.dll
+		10.0.17763.2920 (WinBuild.160101.0800)C:\Windows\SYSTEM32\WINSPOOL.DRV
+		10.0.17763.2920 (WinBuild.160101.0800)C:\Windows\System32\bcrypt.dll
+		6.10 (WinBuild.160101.0800)   C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.17763.2565_none_2620aa5767c57d64\COMCTL32.dll
+		10.0.17763.2920 (WinBuild.160101.0800)C:\Windows\SYSTEM32\UxTheme.dll
+		10.0.17763.2920 (WinBuild.160101.0800)C:\Windows\SYSTEM32\oledlg.dll
+		10.0.17763.1697 (WinBuild.160101.0800)C:\Windows\SYSTEM32\dxgi.dll
+		7.2.17763.1697 (WinBuild.160101.0800)C:\Windows\SYSTEM32\OLEACC.dll
+		10.0.17763.2565 (WinBuild.160101.0800)C:\Windows\WinSxS\x86_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.17763.2565_none_570b9d3cc257f732\gdiplus.dll
+		10.0.17763.2920 (WinBuild.160101.0800)C:\Windows\SYSTEM32\WINMM.dll
+		11.00.17763.2920 (WinBuild.160101.0800)C:\Windows\SYSTEM32\WININET.dll
+		10.0.17763.1 (WinBuild.160101.0800)C:\Windows\SYSTEM32\VERSION.dll
+		7.0.17763.2920 (WinBuild.160101.0800)C:\Windows\SYSTEM32\PROPSYS.dll
+		10.0.17763.2920 (WinBuild.160101.0800)C:\Windows\SYSTEM32\IPHLPAPI.DLL
+		10.0.17763.1 (WinBuild.160101.0800)C:\Windows\SYSTEM32\WINMMBASE.dll
+		10.0.17763.1999 (WinBuild.160101.0800)C:\Windows\System32\dbghelp.dll
+		2001.12.10941.16384 (WinBuild.160101.0800)C:\Windows\System32\clbcatq.dll
+		10.0.17763.1 (WinBuild.160101.0800)C:\Windows\system32\wbem\wbemprox.dll
+		10.0.17763.2920 (WinBuild.160101.0800)C:\Windows\System32\WS2_32.dll
+		10.0.17763.2028 (WinBuild.160101.0800)C:\Windows\SYSTEM32\wbemcomn.dll
+		10.0.17763.1 (WinBuild.160101.0800)C:\Windows\system32\wbem\wbemsvc.dll
+		10.0.17763.1 (WinBuild.160101.0800)C:\Windows\system32\wbem\fastprox.dll
+Failed to get information of process Id: 12212
+Failed to get information of process Id: 8528
+Failed to get information of process Id: 6744
+Failed to get information of process Id: 9084
+Failed to get information of process Id: 10644
+Failed to get information of process Id: 10168
+Failed to get information of process Id: 12996

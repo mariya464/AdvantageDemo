@@ -1,0 +1,4 @@
+"{"seaddress":{"addressLine1":"street","addressLine2":"","city":"Kazan","country":"Russia","pos"
+"talCode":547859,"state":"region"},"secustomerName":"Gabby Duarte","secustomerPhone":"+79562223"
+"212","senumberOfProducts":1,"setransactionType":"SHIPPING_COST","sessionId":"3ADA4AC99AB2E171A"
+"C996016C91A3A2C"}"

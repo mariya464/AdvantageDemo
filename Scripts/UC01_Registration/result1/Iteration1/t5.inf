@@ -1,0 +1,13 @@
+[t5]
+SnapshotXmlFile=snapshot_5.xml
+ContentType=application/json
+StepName=Url: search
+Total=1
+FileName1=t5.json
+RequestHeaderFile=t5_RequestHeader.txt
+ResponseHeaderFile=t5_ResponseHeader.txt
+RawStepEndTime=1651305165450
+RawStepName=search
+RequestBodyFile=t5_RequestBody.txt
+RawStepStartTime=1651305165211
+URL1=http://18.212.178.84/catalog/api/v1/deals/search?dealOfTheDay=true

@@ -1,0 +1,902 @@
+{
+  "FilterHeaders": [
+    {
+      "Header": "user-agent",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "upgrade-insecure-requests",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "soapaction",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "sec-fetch-mode",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "origin",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "if-none-match",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "if-modified-since",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "access-control-request-method",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "access-control-request-headers",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "accept-language",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "accept-encoding",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "accept",
+      "IncludeInScript": false
+    }
+  ],
+  "FilterResources": [
+    {
+      "IsNonResource": true,
+      "type": "text/xml"
+    },
+    {
+      "IsNonResource": true,
+      "type": "text/html"
+    },
+    {
+      "IsNonResource": false,
+      "type": "image/png"
+    },
+    {
+      "IsNonResource": true,
+      "type": "application/json"
+    }
+  ],
+  "GeneralInfo": {
+    "BrowserVersion": "",
+    "IsWinInetMode": false,
+    "MaxUsedConnections": 8,
+    "RecordedBrowser": "Chrome",
+    "RecordingDate": "апр-29-2022",
+    "RecordingDuration": 58796,
+    "RecordingMode": "N/A",
+    "RecordingTimeStamp": 1651261586,
+    "RecordingType": "Browser",
+    "TotalBytesReceived": 30942,
+    "TotalBytesSent": 13820,
+    "TotalRequests": 23,
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36"
+  },
+  "HostInfo": [
+    {
+      "DomainName": "yandex.ru",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "77.88.55.88",
+          "IncludeInScript": false,
+          "Name": "yandex.ru",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 31,
+              "EventId": 662,
+              "HttpStatus": 200,
+              "Size": 43,
+              "URL": "https://yandex.ru/clck/click"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 62,
+              "EventId": 657,
+              "HttpStatus": 200,
+              "Size": 43,
+              "URL": "https://yandex.ru/clck/click"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 63,
+              "EventId": 653,
+              "HttpStatus": 200,
+              "Size": 43,
+              "URL": "https://yandex.ru/clck/counter"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/json",
+              "DownloadTime": 46,
+              "EventId": 648,
+              "HttpStatus": 200,
+              "Size": 39,
+              "URL": "https://yandex.ru/suggest/suggest-ya.cgi?srv=morda_newtab_desktop&wiz=TrWth&uil=ru&fact=1&v=4&icon=1&lr=146391&hl=1&bemjson=0&html=1&platform=desktop&rich_nav=1&show_experiment=222&show_experiment=224&verified_nav=1&rich_phone=1&use_favicon=1&nav_favicon=1&nav_text=1&a=0&yu=5710010871644826483&mt_wizard=1&svg=1&part=&pos=0&suggest_reqid=571001087164482648317582483462378&hs=0"
+            }
+          ],
+          "SSLCipher": "TLS_AES_256_GCM_SHA384",
+          "SSLVersion": "TLS1.3"
+        },
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "5.255.255.77",
+          "IncludeInScript": false,
+          "Name": "www.yandex.ru",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "br",
+              "DataType": "text/javascript",
+              "DownloadTime": 265,
+              "EventId": 621,
+              "HttpStatus": 200,
+              "Size": 12063,
+              "URL": "https://www.yandex.ru/portal/api/data/1/?content=chromenewtab&from=newtab3"
+            },
+            {
+              "CompressionType": "br",
+              "DataType": "application/json",
+              "DownloadTime": 78,
+              "EventId": 569,
+              "HttpStatus": 200,
+              "Size": 172,
+              "URL": "https://www.yandex.ru/instant/stlog?msid=1651261744.20429111.29287.11111&rnd=1651261744631&from=chromenewtab"
+            },
+            {
+              "CompressionType": "br",
+              "DataType": "application/json",
+              "DownloadTime": 62,
+              "EventId": 565,
+              "HttpStatus": 200,
+              "Size": 12,
+              "URL": "https://www.yandex.ru/instant/accesslog?msid=1651261744.20429111.29287.11111&from=chromenewtab3&rnd=1651261744624"
+            }
+          ],
+          "SSLCipher": "TLS_AES_256_GCM_SHA384",
+          "SSLVersion": "TLS1.3"
+        },
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "87.250.250.119",
+          "IncludeInScript": false,
+          "Name": "mc.yandex.ru",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 15,
+              "EventId": 851,
+              "HttpStatus": 200,
+              "Size": 43,
+              "URL": "https://mc.yandex.ru/watch/31407033?page-url=https%3A%2F%2Fshowjet.tv%2Fpromolanding%3Fautoplay%3Dtrue%26sjuid5%3D525%26utm_source%3DHS042002%26pcluid%3DDzXN9Q8g1N&charset=utf-8&browser-info=nb%3A1%3Acl%3A387%3Aar%3A1%3Agdpr%3A14%3Avf%3A3epd2p1htlh5jxirrla8%3Afu%3A1%3Aen%3Autf-8%3Ala%3Aru-RU%3Av%3A790%3Acn%3A1%3Adp%3A1%3Als%3A1019594118193%3Ahid%3A517732315%3Az%3A180%3Ai%3A20220429225000%3Aet%3A1651261800%3Ac%3A1%3Arn%3A279958871%3Arqn%3A95%3Au%3A1650176839176019509%3Aw%3A790x444%3As%3A1536x864x24%3Ask%3A1.25%3Aifr%3A1%3Acpf%3A1%3Aeu%3A0%3Ans%3A1651261777809%3Ads%3A%2C%2C%2C%2C%2C%2C%2C%2C%2C7876%2C7876%2C12%2C%3Aco%3A0%3Aadb%3A1%3App%3A3629563401%3Arqnl%3A1%3Ast%3A1651261800&t=nbe(0)gdpr(14)lt(130200)aw(1)efid(1)ti(0)&force-urlencoded=1"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 16,
+              "EventId": 828,
+              "HttpStatus": 200,
+              "Size": 377,
+              "URL": "https://mc.yandex.ru/watch/31407033?wmode=7&page-url=https%3A%2F%2Fshowjet.tv%2Fpromolanding%3Fautoplay%3Dtrue%26sjuid5%3D525%26utm_source%3DHS042002%26pcluid%3DDzXN9Q8g1N&page-ref=https%3A%2F%2Ftv-east.ru%2F&charset=utf-8&browser-info=pv%3A1%3Agdpr%3A14%3Avf%3A3epd2p1htlh5jxirrla8%3Afu%3A0%3Aen%3Autf-8%3Ala%3Aru-RU%3Av%3A790%3Acn%3A1%3Adp%3A0%3Als%3A1019594118193%3Ahid%3A517732315%3Az%3A180%3Ai%3A20220429224945%3Aet%3A1651261785%3Ac%3A1%3Arn%3A368947129%3Arqn%3A94%3Au%3A1650176839176019509%3Aw%3A790x444%3As%3A1536x864x24%3Ask%3A1.25%3Aifr%3A1%3Acpf%3A1%3Ans%3A1651261777809%3Ads%3A38%2C515%2C497%2C39%2C4%2C0%2C%2C194%2C0%2C%2C%2C%2C2259%3Aco%3A0%3Arqnl%3A1%3Ast%3A1651261785%3At%3A&t=gdpr(14)aw(1)cs(01)efid(1)ti(2)"
+            },
+            {
+              "CompressionType": "br",
+              "DataType": "application/javascript",
+              "DownloadTime": 31,
+              "EventId": 802,
+              "HttpStatus": 200,
+              "Size": 52136,
+              "URL": "https://mc.yandex.ru/metrika/watch.js"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 31,
+              "EventId": 779,
+              "HttpStatus": 200,
+              "Size": 358,
+              "URL": "https://mc.yandex.ru/watch/86637686?wmode=7&page-url=https%3A%2F%2Ftv-east.ru%2F37%2Fvideo%2F36%3F%26utm_source%3DHS790162%26utm_medium%3DST%26pcluid%3Dshf6bHsf9n&page-ref=https%3A%2F%2Ftv-east.ru%2F&charset=utf-8&browser-info=pv%3A1%3Agdpr%3A14%3Avf%3Aa8mjefddwss4ne717e2g%3Afu%3A0%3Aen%3Autf-8%3Ala%3Aru-RU%3Av%3A790%3Acn%3A1%3Adp%3A0%3Als%3A511243159368%3Ahid%3A343549508%3Az%3A180%3Ai%3A20220429224938%3Aet%3A1651261778%3Ac%3A1%3Arn%3A510241790%3Arqn%3A88%3Au%3A1650176837369896506%3Aw%3A1223x900%3As%3A1536x864x24%3Ask%3A1.25%3Aifr%3A1%3Acpf%3A1%3Ans%3A1651261776288%3Ads%3A0%2C0%2C91%2C7%2C4%2C0%2C%2C19%2C0%2C149%2C149%2C0%2C146%3Awv%3A2%3Aco%3A0%3Aadb%3A1%3Arqnl%3A1%3Ast%3A1651261778%3At%3ATVEast%20-%20%232&t=gdpr(14)aw(1)ti(2)"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 31,
+              "EventId": 758,
+              "HttpStatus": 200,
+              "Size": 43,
+              "URL": "https://mc.yandex.ru/watch/86637686"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 31,
+              "EventId": 645,
+              "HttpStatus": 200,
+              "Size": 377,
+              "URL": "https://mc.yandex.ru/watch/36220490?wmode=7&page-url=https%3A%2F%2Fwww.yandex.ru%2Fchrome%2Fnewtab&charset=utf-8&exp=2mUup2qdi4He9S21HbVfafzXrg8zGnwb&ut=noindex&browser-info=pv%3A1%3Agdpr%3A13-0%3Avf%3A3epd2p1htlh5jxirrla8%3Afp%3A2009%3Afu%3A0%3Aen%3Autf-8%3Ala%3Aru-RU%3Av%3A790%3Acn%3A1%3Adp%3A0%3Als%3A1085103055738%3Ahid%3A742620256%3Az%3A180%3Ai%3A20220429224917%3Aet%3A1651261758%3Ac%3A1%3Arn%3A1016338132%3Arqn%3A977%3Au%3A1644826486285645033%3Aw%3A1536x721%3As%3A1536x864x24%3Ask%3A1.25%3Acpf%3A1%3Aeu%3A0%3Ans%3A1651261743520%3Ads%3A0%2C0%2C102%2C7%2C1018%2C0%2C%2C%2C%2C%2C%2C%2C%3Aco%3A0%3Aadb%3A2%3Arqnl%3A1%3Aafr%3Adburgiq_lw3d1mo-a902e07dad892a34f0c524e4d0ed59b6-d2cc4b84b6d835c5e83b76324c19cd05-375eajei_24-2190000000-57a6d374_3j8h47eg_2ge943db_30ah20h1-1536x824x0-unknown-5%3Ast%3A1651261758%3At%3A%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81&t=gdpr(13-0)aw(1)cs(3)efid(1)afr(1)ti(2)"
+            }
+          ],
+          "SSLCipher": "TLS_AES_256_GCM_SHA384",
+          "SSLVersion": "TLS1.3"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "windscribe.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "104.20.27.217",
+          "IncludeInScript": false,
+          "Name": "checkipv4.windscribe.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 47,
+              "EventId": 593,
+              "HttpStatus": 200,
+              "Size": 16,
+              "URL": "https://checkipv4.windscribe.com/"
+            }
+          ],
+          "SSLCipher": "TLS_AES_256_GCM_SHA384",
+          "SSLVersion": "TLS1.3"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "tv-east.ru",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "185.22.62.112",
+          "IncludeInScript": false,
+          "Name": "tv-east.ru",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/html",
+              "DownloadTime": 31,
+              "EventId": 786,
+              "HttpStatus": 200,
+              "Size": 343,
+              "URL": "https://tv-east.ru/news/load-news-feed"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/html",
+              "DownloadTime": 62,
+              "EventId": 752,
+              "HttpStatus": 200,
+              "Size": 6005,
+              "URL": "https://tv-east.ru/37/video/36?&utm_source=HS790162&utm_medium=ST&pcluid=shf6bHsf9n"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/html",
+              "DownloadTime": 31,
+              "EventId": 750,
+              "HttpStatus": 200,
+              "Size": 8667,
+              "URL": "https://tv-east.ru/"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/html",
+              "DownloadTime": 62,
+              "EventId": 748,
+              "HttpStatus": 200,
+              "Size": 8667,
+              "URL": "https://tv-east.ru/"
+            }
+          ],
+          "SSLCipher": "ECDHE-RSA-AES128-GCM-SHA256",
+          "SSLVersion": "TLS1.2"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "tns-counter.ru",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "194.226.130.227",
+          "IncludeInScript": false,
+          "Name": "www.tns-counter.ru",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 46,
+              "EventId": 815,
+              "HttpStatus": 200,
+              "Size": 43,
+              "URL": "https://www.tns-counter.ru/V13a***R%3Ehttps://tv-east.ru/*custom_ad/ru/UTF-8/tmsec=custom_cid1026782-posid1410905/612573455"
+            }
+          ],
+          "SSLCipher": "TLS_AES_256_GCM_SHA384",
+          "SSLVersion": "TLS1.3"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "showjet.tv",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "62.89.193.14",
+          "IncludeInScript": false,
+          "Name": "showjet.tv",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/javascript",
+              "DownloadTime": 62,
+              "EventId": 817,
+              "HttpStatus": 200,
+              "Size": 44636,
+              "URL": "https://showjet.tv/js/blacklist.js?v=1651261784889"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/html",
+              "DownloadTime": 62,
+              "EventId": 788,
+              "HttpStatus": 200,
+              "Size": 3748,
+              "URL": "https://showjet.tv/promolanding?autoplay=true&sjuid5=525&utm_source=HS042002&pcluid=DzXN9Q8g1N"
+            }
+          ],
+          "SSLCipher": "ECDHE-RSA-AES128-GCM-SHA256",
+          "SSLVersion": "TLS1.2"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "mail.ru",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "217.69.133.145",
+          "IncludeInScript": false,
+          "Name": "top-fwz1.mail.ru",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 16,
+              "EventId": 861,
+              "HttpStatus": 200,
+              "Size": 43,
+              "URL": "https://top-fwz1.mail.ru/tracker?js=13;id=2846144;u=https%3A//showjet.tv/promolanding%3Fautoplay%3Dtrue%26sjuid5%3D525%26utm_source%3DHS042002%26pcluid%3DDzXN9Q8g1N;r=https%3A//tv-east.ru/;st=1651261779250;s=1536*864;vp=790*444;touch=0;hds=1.25;frame=1;flash=;sid=2b05cb87857e90f6;ver=60.3.0;tz=-180%2FEurope%2FMoscow;ni=2.4//4g/100/0/;detect=0;lvid=1650176838426%3A1651261800706%3A189%3A16e515d88857d7d524028fc411bac2c7;opts=dl%2Cjst-gtag-ym;visible=true;_=0.20084565751644812;e=PVT/15"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 16,
+              "EventId": 839,
+              "HttpStatus": 200,
+              "Size": 43,
+              "URL": "https://top-fwz1.mail.ru/tracker?js=13;id=2846144;u=https%3A//showjet.tv/promolanding%3Fautoplay%3Dtrue%26sjuid5%3D525%26utm_source%3DHS042002%26pcluid%3DDzXN9Q8g1N;r=https%3A//tv-east.ru/;st=1651261779250;s=1536*864;vp=790*444;touch=0;hds=1.25;frame=1;flash=;sid=2b05cb87857e90f6;ver=60.3.0;tz=-180%2FEurope%2FMoscow;nt=0/0/1651261777809/////4/158/197/197/711/232/712/1208/1247/1282/1441/2259/2260/7876/7876/;ni=2.4//4g/100/0/;lvid=1650176838426%3A1651261785693%3A188%3A16e515d88857d7d524028fc411bac2c7;opts=dl%2Cjst-gtag-ym;visible=true;_=0.8847960672209472;e=RT/load;et=1651261785690"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 16,
+              "EventId": 835,
+              "HttpStatus": 200,
+              "Size": 43,
+              "URL": "https://top-fwz1.mail.ru/counter?js=13;id=2846144;u=https%3A//showjet.tv/promolanding%3Fautoplay%3Dtrue%26sjuid5%3D525%26utm_source%3DHS042002%26pcluid%3DDzXN9Q8g1N;r=https%3A//tv-east.ru/;st=1651261779250;s=1536*864;vp=790*444;touch=0;hds=1.25;frame=1;flash=;sid=2b05cb87857e90f6;ver=60.3.0;tz=-180%2FEurope%2FMoscow;ni=2.4//4g/100/0/;lvid=1650176838426%3A1651261785672%3A187%3A16e515d88857d7d524028fc411bac2c7;opts=dl%2Cjst-gtag-ym;visible=true;_=0.06787998604993639"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "",
+              "DownloadTime": 16,
+              "EventId": 825,
+              "HttpStatus": 304,
+              "Size": 0,
+              "URL": "https://top-fwz1.mail.ru/js/code.js"
+            }
+          ],
+          "SSLCipher": "ECDHE-ECDSA-AES128-GCM-SHA256",
+          "SSLVersion": "TLS1.2"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "googleapis.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "173.194.73.94",
+          "IncludeInScript": false,
+          "Name": "update.googleapis.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/json",
+              "DownloadTime": 93,
+              "EventId": 883,
+              "HttpStatus": 200,
+              "Size": 925,
+              "URL": "https://update.googleapis.com/service/update2/json?cup2key=11:kdrxtv7FfYkYCCIpmEIv-2I44wToGlz4QZMl4Y3RQC4&cup2hreq=5a8fe283ff3341e93b9bd2fc5cb727df0f5015e15282293d7fd97050c2bbeaeb"
+            }
+          ],
+          "SSLCipher": "TLS_AES_256_GCM_SHA384",
+          "SSLVersion": "TLS1.3"
+        },
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "142.251.1.95",
+          "IncludeInScript": false,
+          "Name": "translate.googleapis.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/json",
+              "DownloadTime": 47,
+              "EventId": 682,
+              "HttpStatus": 200,
+              "Size": 1112,
+              "URL": "https://translate.googleapis.com/translate_a/l?client=chrome&hl=ru&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
+            }
+          ],
+          "SSLCipher": "TLS_AES_256_GCM_SHA384",
+          "SSLVersion": "TLS1.3"
+        },
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "173.194.220.94",
+          "IncludeInScript": false,
+          "Name": "clientservices.googleapis.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "",
+              "DownloadTime": 47,
+              "EventId": 558,
+              "HttpStatus": 304,
+              "Size": 0,
+              "URL": "https://clientservices.googleapis.com/chrome-variations/seed?osname=win&channel=stable&milestone=100"
+            }
+          ],
+          "SSLCipher": "TLS_AES_256_GCM_SHA384",
+          "SSLVersion": "TLS1.3"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "google.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "64.233.165.84",
+          "IncludeInScript": false,
+          "Name": "accounts.google.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/json",
+              "DownloadTime": 46,
+              "EventId": 560,
+              "HttpStatus": 200,
+              "Size": 43,
+              "URL": "https://accounts.google.com/ListAccounts?gpsia=1&source=ChromiumBrowser&json=standard"
+            }
+          ],
+          "SSLCipher": "TLS_AES_256_GCM_SHA384",
+          "SSLVersion": "TLS1.3"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "fastproxy.app",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "172.67.191.206",
+          "IncludeInScript": false,
+          "Name": "stat.fastproxy.app",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "br",
+              "DataType": "text/html",
+              "DownloadTime": 188,
+              "EventId": 730,
+              "HttpStatus": 200,
+              "Size": 1650,
+              "URL": "https://stat.fastproxy.app/"
+            },
+            {
+              "CompressionType": "br",
+              "DataType": "text/html",
+              "DownloadTime": 172,
+              "EventId": 665,
+              "HttpStatus": 200,
+              "Size": 5109,
+              "URL": "https://stat.fastproxy.app/?e=start"
+            }
+          ],
+          "SSLCipher": "TLS_AES_256_GCM_SHA384",
+          "SSLVersion": "TLS1.3"
+        },
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "104.21.20.57",
+          "IncludeInScript": false,
+          "Name": "api.fastproxy.app",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "br",
+              "DataType": "application/json",
+              "DownloadTime": 156,
+              "EventId": 579,
+              "HttpStatus": 200,
+              "Size": 110,
+              "URL": "https://api.fastproxy.app/v2/config"
+            }
+          ],
+          "SSLCipher": "TLS_AES_256_GCM_SHA384",
+          "SSLVersion": "TLS1.3"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "advertur.ru",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "88.99.165.109",
+          "IncludeInScript": false,
+          "Name": "ddnk.advertur.ru",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 62,
+              "EventId": 782,
+              "HttpStatus": 304,
+              "Size": 0,
+              "URL": "https://ddnk.advertur.ru/v1/s/loader.js"
+            }
+          ],
+          "SSLCipher": "AES128-SHA",
+          "SSLVersion": "TLS1.2"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "adobe.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "15.236.176.210",
+          "IncludeInScript": false,
+          "Name": "sstats.adobe.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 63,
+              "EventId": 671,
+              "HttpStatus": 200,
+              "Size": 43,
+              "URL": "https://sstats.adobe.com/b/ss/adbcreatepdfplugin.prod/1/JS-1.6/s49766803496171?AQB=1&ndh=1&pf=1&t=29%2F3%2F2022%2022%3A49%3A10%205%20-180&fid=44458C85CFBFAEE2-3F253411C32BAC1B&ce=UTF-8&pageName=DCBrowserExt%3AViewer%3AFTE%3AOpenHelpx%3AEnabled&g=chrome-extension%3A%2F%2Fefaidnbmnnnibpcajpcglclefindmkaj%2F_generated_background_page.html&v1=15.1.3.12&v2=sideload&v3=prod&v4=unknown&AQE=1"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 78,
+              "EventId": 650,
+              "HttpStatus": 200,
+              "Size": 43,
+              "URL": "https://sstats.adobe.com/b/ss/adbcreatepdfplugin.prod/1/JS-1.6/s43916177916841?AQB=1&ndh=1&pf=1&t=29%2F3%2F2022%2022%3A49%3A10%205%20-180&fid=44458C85CFBFAEE2-3F253411C32BAC1B&ce=UTF-8&pageName=DCBrowserExt%3AOS%3Awin%3AOp&g=chrome-extension%3A%2F%2Fefaidnbmnnnibpcajpcglclefindmkaj%2F_generated_background_page.html&v1=15.1.3.12&v2=sideload&v3=prod&v4=unknown&AQE=1"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 63,
+              "EventId": 613,
+              "HttpStatus": 200,
+              "Size": 43,
+              "URL": "https://sstats.adobe.com/b/ss/adbcreatepdfplugin.prod/1/JS-1.6/s4303721951211?AQB=1&ndh=1&pf=1&t=29%2F3%2F2022%2022%3A49%3A9%205%20-180&fid=44458C85CFBFAEE2-3F253411C32BAC1B&ce=UTF-8&pageName=DCBrowserExt%3AExtension%3AStartup%3AOp&g=chrome-extension%3A%2F%2Fefaidnbmnnnibpcajpcglclefindmkaj%2F_generated_background_page.html&v1=15.1.3.12&v2=sideload&v3=prod&v4=unknown&AQE=1"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 110,
+              "EventId": 576,
+              "HttpStatus": 200,
+              "Size": 43,
+              "URL": "https://sstats.adobe.com/b/ss/adbcreatepdfplugin.prod/1/JS-1.6/s42014577110718?AQB=1&ndh=1&pf=1&t=29%2F3%2F2022%2022%3A49%3A9%205%20-180&fid=44458C85CFBFAEE2-3F253411C32BAC1B&ce=UTF-8&pageName=DCBrowserExt%3AShim%3AVersion%3AUnknown%3AOp&g=chrome-extension%3A%2F%2Fefaidnbmnnnibpcajpcglclefindmkaj%2F_generated_background_page.html&v1=15.1.3.12&v2=sideload&v3=prod&v4=not_set&s=1536x864&c=24&j=1.6&v=N&k=Y&bh=8&AQE=1"
+            }
+          ],
+          "SSLCipher": "TLS_AES_256_GCM_SHA384",
+          "SSLVersion": "TLS1.3"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "18.212.178.84",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "18.212.178.84",
+          "IncludeInScript": true,
+          "Name": "18.212.178.84",
+          "Port": 8081,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "text/xml",
+              "DownloadTime": 172,
+              "EventId": 724,
+              "HttpStatus": 200,
+              "Size": 823,
+              "URL": "http://18.212.178.84:8081//accountservice/ws/GetAccountConfigurationRequest"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "",
+              "DownloadTime": 156,
+              "EventId": 720,
+              "HttpStatus": 200,
+              "Size": 2,
+              "URL": "http://18.212.178.84:8081//accountservice/ws/GetAccountConfigurationRequest"
+            }
+          ],
+          "SSLCipher": "None",
+          "SSLVersion": "None"
+        },
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "18.212.178.84",
+          "IncludeInScript": true,
+          "Name": "18.212.178.84",
+          "Port": 80,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 140,
+              "EventId": 875,
+              "HttpStatus": 200,
+              "Size": 1087,
+              "URL": "http://18.212.178.84/css/images/review_Left_disabled.png"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 156,
+              "EventId": 867,
+              "HttpStatus": 200,
+              "Size": 1542,
+              "URL": "http://18.212.178.84/css/images/reviewUser.png"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 141,
+              "EventId": 864,
+              "HttpStatus": 200,
+              "Size": 1075,
+              "URL": "http://18.212.178.84/css/images/review_right.png"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/html",
+              "DownloadTime": 141,
+              "EventId": 858,
+              "HttpStatus": 200,
+              "Size": 2360,
+              "URL": "http://18.212.178.84/app/views/product-page.html"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/json",
+              "DownloadTime": 234,
+              "EventId": 856,
+              "HttpStatus": 200,
+              "Size": 580,
+              "URL": "http://18.212.178.84/catalog/api/v1/products/10"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/json",
+              "DownloadTime": 453,
+              "EventId": 854,
+              "HttpStatus": 200,
+              "Size": 8543,
+              "URL": "http://18.212.178.84/catalog/api/v1/categories/all_data"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "",
+              "DownloadTime": 156,
+              "EventId": 833,
+              "HttpStatus": 304,
+              "Size": 0,
+              "URL": "http://18.212.178.84/app/views/category-page.html"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/json",
+              "DownloadTime": 234,
+              "EventId": 831,
+              "HttpStatus": 200,
+              "Size": 552,
+              "URL": "http://18.212.178.84/catalog/api/v1/categories/attributes"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/json",
+              "DownloadTime": 266,
+              "EventId": 821,
+              "HttpStatus": 200,
+              "Size": 3014,
+              "URL": "http://18.212.178.84/catalog/api/v1/categories/1/products"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "",
+              "DownloadTime": 156,
+              "EventId": 740,
+              "HttpStatus": 304,
+              "Size": 0,
+              "URL": "http://18.212.178.84/css/fonts/roboto_bold_macroman/Roboto-Bold-webfont.woff"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "",
+              "DownloadTime": 156,
+              "EventId": 738,
+              "HttpStatus": 304,
+              "Size": 0,
+              "URL": "http://18.212.178.84/css/fonts/roboto_thin_macroman/Roboto-Thin-webfont.woff"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "",
+              "DownloadTime": 141,
+              "EventId": 736,
+              "HttpStatus": 304,
+              "Size": 0,
+              "URL": "http://18.212.178.84/app/views/home-page.html"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "",
+              "DownloadTime": 141,
+              "EventId": 734,
+              "HttpStatus": 304,
+              "Size": 0,
+              "URL": "http://18.212.178.84/app/tempFiles/popularProducts.json"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/json",
+              "DownloadTime": 235,
+              "EventId": 728,
+              "HttpStatus": 200,
+              "Size": 351,
+              "URL": "http://18.212.178.84/catalog/api/v1/deals/search?dealOfTheDay=true"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/json",
+              "DownloadTime": 234,
+              "EventId": 726,
+              "HttpStatus": 200,
+              "Size": 4472,
+              "URL": "http://18.212.178.84/catalog/api/v1/categories"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "",
+              "DownloadTime": 140,
+              "EventId": 701,
+              "HttpStatus": 304,
+              "Size": 0,
+              "URL": "http://18.212.178.84/css/fonts/roboto_medium_macroman/Roboto-Medium-webfont.woff"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "",
+              "DownloadTime": 140,
+              "EventId": 699,
+              "HttpStatus": 304,
+              "Size": 0,
+              "URL": "http://18.212.178.84/css/fonts/roboto_light_macroman/Roboto-Light-webfont.woff"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "",
+              "DownloadTime": 141,
+              "EventId": 697,
+              "HttpStatus": 304,
+              "Size": 0,
+              "URL": "http://18.212.178.84/css/fonts/roboto_regular_macroman/Roboto-Regular-webfont.woff"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/json",
+              "DownloadTime": 156,
+              "EventId": 688,
+              "HttpStatus": 200,
+              "Size": 6541,
+              "URL": "http://18.212.178.84/catalog/api/v1/DemoAppConfig/parameters/by_tool/ALL"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "",
+              "DownloadTime": 156,
+              "EventId": 680,
+              "HttpStatus": 304,
+              "Size": 0,
+              "URL": "http://18.212.178.84/services.properties"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "",
+              "DownloadTime": 140,
+              "EventId": 583,
+              "HttpStatus": 304,
+              "Size": 0,
+              "URL": "http://18.212.178.84/"
+            }
+          ],
+          "SSLCipher": "None",
+          "SSLVersion": "None"
+        }
+      ],
+      "IncludeInScript": true
+    }
+  ],
+  "WebSocket": {
+    "IncludeInScript": false,
+    "IsScriptIncludeWebSocket": false
+  },
+  "NumberOfCorrelations": 0
+}

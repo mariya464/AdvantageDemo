@@ -1,0 +1,91 @@
+[
+    {
+        "actionName": "Action",
+        "steps": [
+            {
+                "stepId": "STEP1",
+                "stepName": "Url: ALL",
+                "infFile": "t1.inf",
+                "time": 1651306086659
+            },
+            {
+                "stepId": "STEP2",
+                "stepName": "Custom Request: GetAccountConfigurationRequest_2",
+                "infFile": "t3.inf",
+                "time": 1651306087206
+            },
+            {
+                "stepId": "STEP3",
+                "stepName": "Url: categories",
+                "infFile": "t4.inf",
+                "time": 1651306087641
+            },
+            {
+                "stepId": "STEP4",
+                "stepName": "Url: search",
+                "infFile": "t5.inf",
+                "time": 1651306087940
+            },
+            {
+                "stepId": "STEP5",
+                "stepName": "Url: products",
+                "infFile": "t6.inf",
+                "time": 1651306093311
+            },
+            {
+                "stepId": "STEP6",
+                "stepName": "Url: attributes",
+                "infFile": "t7.inf",
+                "time": 1651306093584
+            },
+            {
+                "stepId": "STEP7",
+                "stepName": "Url: all_data",
+                "infFile": "t8.inf",
+                "time": 1651306109125
+            },
+            {
+                "stepId": "STEP8",
+                "stepName": "Url: 10",
+                "infFile": "t9.inf",
+                "time": 1651306109430
+            },
+            {
+                "stepId": "STEP9",
+                "stepName": "Url: product-page.html",
+                "infFile": "t10.inf",
+                "time": 1651306109905
+            }
+        ],
+        "transactions": [
+            {
+                "transactionName": "open_site",
+                "rawStartTime": 1651306085986,
+                "rawEndTime": 1651306087941,
+                "thinkTime": 0.0,
+                "wastedTime": 0.21282362937927247
+            },
+            {
+                "transactionName": "click_laptops",
+                "rawStartTime": 1651306092962,
+                "rawEndTime": 1651306093586,
+                "thinkTime": 0.0,
+                "wastedTime": 0.019998550415039064
+            },
+            {
+                "transactionName": "selection_laptops",
+                "rawStartTime": 1651306108620,
+                "rawEndTime": 1651306109907,
+                "thinkTime": 0.0,
+                "wastedTime": 0.03160500526428223
+            },
+            {
+                "transactionName": "UC03_ViewProducts",
+                "rawStartTime": 1651306085969,
+                "rawEndTime": 1651306109910,
+                "thinkTime": 20.003147,
+                "wastedTime": 0.26442718505859377
+            }
+        ]
+    }
+]

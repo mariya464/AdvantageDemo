@@ -1,0 +1,13 @@
+[t10]
+SnapshotXmlFile=snapshot_10.xml
+ContentType=application/json
+StepName=Url: 27
+Total=1
+FileName1=t10.json
+RequestHeaderFile=t10_RequestHeader.txt
+ResponseHeaderFile=t10_ResponseHeader.txt
+RawStepEndTime=1651305889766
+RawStepName=27
+RequestBodyFile=t10_RequestBody.txt
+RawStepStartTime=1651305889381
+URL1=http://18.212.178.84/catalog/api/v1/products/27

@@ -1,0 +1,17 @@
+[t10]
+FileName1=t10.htm
+URL1=http://18.212.178.84/app/views/product-page.html
+Total=4
+RequestHeaderFile=t10_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t10_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_10.xml
+FileName2=t10_review_right.png
+URL2=http://18.212.178.84/css/images/review_right.png
+FileName3=t10_reviewUser.png
+URL3=http://18.212.178.84/css/images/reviewUser.png
+FileName4=t10_review_Left_disabled.png
+URL4=http://18.212.178.84/css/images/review_Left_disabled.png
+[ProtocolInfo]
+ProtocolId=QTWeb

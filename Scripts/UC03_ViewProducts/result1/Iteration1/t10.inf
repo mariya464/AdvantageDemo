@@ -1,0 +1,20 @@
+[t10]
+FileName2=t10_2_reviewUser.png
+RawStepEndTime=1651306109874
+FileName4=t10_0_review_Left_disabled.png
+RequestBodyFile=t10_RequestBody.txt
+RawStepName=product-page.html
+ContentType=text/html
+URL1=http://18.212.178.84/app/views/product-page.html
+URL2=http://18.212.178.84/css/images/reviewUser.png
+URL3=http://18.212.178.84/css/images/review_right.png
+ResponseHeaderFile=t10_ResponseHeader.txt
+URL4=http://18.212.178.84/css/images/review_Left_disabled.png
+SnapshotXmlFile=snapshot_10.xml
+RequestHeaderFile=t10_RequestHeader.txt
+SaveSnapshotResources=1
+RawStepStartTime=1651306109433
+Total=4
+StepName=Url: product-page.html
+FileName1=t10.html
+FileName3=t10_1_review_right.png

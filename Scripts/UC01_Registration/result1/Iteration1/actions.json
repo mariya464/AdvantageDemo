@@ -1,0 +1,79 @@
+[
+    {
+        "actionName": "Action",
+        "steps": [
+            {
+                "stepId": "STEP1",
+                "stepName": "Url: ALL",
+                "infFile": "t1.inf",
+                "time": 1651305164148
+            },
+            {
+                "stepId": "STEP2",
+                "stepName": "Custom Request: GetAccountConfigurationRequest_2",
+                "infFile": "t3.inf",
+                "time": 1651305164765
+            },
+            {
+                "stepId": "STEP3",
+                "stepName": "Url: categories",
+                "infFile": "t4.inf",
+                "time": 1651305165181
+            },
+            {
+                "stepId": "STEP4",
+                "stepName": "Url: search",
+                "infFile": "t5.inf",
+                "time": 1651305165466
+            },
+            {
+                "stepId": "STEP5",
+                "stepName": "Url: register-page.html",
+                "infFile": "t6.inf",
+                "time": 1651305165708
+            },
+            {
+                "stepId": "STEP6",
+                "stepName": "Custom Request: GetCountriesRequest_2",
+                "infFile": "t8.inf",
+                "time": 1651305167968
+            },
+            {
+                "stepId": "STEP7",
+                "stepName": "Custom Request: AccountCreateRequest",
+                "infFile": "t9.inf",
+                "time": 1651305214435
+            }
+        ],
+        "transactions": [
+            {
+                "transactionName": "open_site",
+                "rawStartTime": 1651305163622,
+                "rawEndTime": 1651305165477,
+                "thinkTime": 0.0,
+                "wastedTime": 0.19833135604858399
+            },
+            {
+                "transactionName": "registration",
+                "rawStartTime": 1651305165492,
+                "rawEndTime": 1651305168010,
+                "thinkTime": 0.0,
+                "wastedTime": 0.03198814392089844
+            },
+            {
+                "transactionName": "data_input",
+                "rawStartTime": 1651305168025,
+                "rawEndTime": 1651305214462,
+                "thinkTime": 46.000134,
+                "wastedTime": 0.007476329803466797
+            },
+            {
+                "transactionName": "UC01_Registration",
+                "rawStartTime": 1651305163607,
+                "rawEndTime": 1651305214478,
+                "thinkTime": 46.000134,
+                "wastedTime": 0.23779582977294923
+            }
+        ]
+    }
+]

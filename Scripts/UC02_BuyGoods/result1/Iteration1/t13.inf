@@ -1,0 +1,13 @@
+[t13]
+SnapshotXmlFile=snapshot_13.xml
+ContentType=application/json
+StepName=Submit Data: 414141
+Total=1
+FileName1=t13.json
+RequestHeaderFile=t13_RequestHeader.txt
+ResponseHeaderFile=t13_ResponseHeader.txt
+RawStepEndTime=1651305903190
+RawStepName=414141
+RequestBodyFile=t13_RequestBody.txt
+RawStepStartTime=1651305902737
+URL1=http://18.212.178.84/order/api/v1/carts/729314003/product/27/color/414141?quantity=1

@@ -1,0 +1,13 @@
+[t8]
+SnapshotXmlFile=snapshot_8.xml
+ContentType=application/json
+StepName=Url: all_data
+Total=1
+FileName1=t8.json
+RequestHeaderFile=t8_RequestHeader.txt
+ResponseHeaderFile=t8_ResponseHeader.txt
+RawStepEndTime=1651306109103
+RawStepName=all_data
+RequestBodyFile=t8_RequestBody.txt
+RawStepStartTime=1651306108635
+URL1=http://18.212.178.84/catalog/api/v1/categories/all_data

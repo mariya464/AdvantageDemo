@@ -1,0 +1,1228 @@
+f6c8
+<!DOCTYPE html>
+
+<html class="ua_js_no" lang="ru">
+<head>
+    
+    <meta charset="utf-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="msvalidate.01" content="F0A7498C21A088DC1AFF3766A5040364">
+    <meta name='wmail-verification' content='41174bca9dda6924c335329ec8b26fda'>
+    <meta name="description" content="Лучшие зарубежные сериалы онлайн бесплатно. В качестве HD, FullHD и 4К. На платформе android, ios, windows, apple TV, android TV">
+    <meta name="keywords" content="ShowJet.ru - онлайн кинотеатр нового поколения. Лучше зарубежные сериалы, горячие премьеры в HD и FullHD качестве, на минимальной скорости интернета.">
+    <meta name="robots" content="index, follow">
+    <meta name="revisit-after" content="1 days">
+    <meta property="og:site_name" content="Showjet - онлайн кинотеатр" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="ShowJet.ru - онлайн кинотеатр нового поколения. Лучше зарубежные сериалы, горячие премьеры в HD и FullHD качестве, на минимальной скорости интернета." />
+    <meta property="og:url" content="showjet.ru/" />
+    <meta property="og:image" content="" />
+    <meta name="language" content="ru_RU">
+    <meta name="wot-verification" content="7704def379a826b6da97" />
+    <meta name="yandex-verification" content="89a7249fc54d046b" />
+    
+    <script>(function (e, c) { e[c] = e[c].replace(/(ua_js_)no/g, "$1yes"); })(document.documentElement, "className");</script>
+    <title>ShowJet.ru - онлайн кинотеатр нового поколения. Лучше зарубежные сериалы, горячие премьеры в HD и FullHD качестве, на минимальной скорости интернета.</title>
+    <link rel="shortcut icon" href="/images/favicon2.ico" />
+
+    <script src="https://use.fontawesome.com/3c854b32e6.js"></script>
+    
+    <link href="/lib/swiper/dist/css/swiper.min.css?v=KJpCV0S7nAMpyVcHdM5SGEBFUNBJudOKAX3a9HnnCIY" rel="stylesheet" />
+    <link href="/css/main.min.css?v=OQ8RhPMC29ZuCkNjLHMrFNxHuvsDzTDmy99FtUh0wLM" rel="stylesheet" />
+
+    
+    
+        <link rel="stylesheet" href="/css/site.min.css?v=nsQfhtofoW58bcpd3PBEf8SEp5ERdDpJSql2GW5W5Z4" />
+    
+
+    <!-- код загрузчика ya contex-->
+    <script>window.yaContextCb = window.yaContextCb || []</script>
+    <script src="https://yandex.ru/ads/system/context.js" async></script>
+
+</head>
+
+<body class="page">
+<div class="header">
+    <div class="header__container">
+        <a class="header__logo" href="/">
+        </a>
+        <div class="header__right" style="position: relative;">
+            <ul class="header-menu">
+                <li class="header-menu__item">
+                    <a class="link link__control" role="link" href="/">Лента</a>
+                </li>
+                <li class="header-menu__item show-menu">
+                    <a class="link link__control" href="/serials">Сериалы</a>
+                    <div class="header-popup i-bem" data-bem='{"header-popup":{}}' style="display: none">
+                        <div class="header-popup__left-side">
+                            <div class="header-popup__item" data-id="0">
+                                <a href="/serials">Все</a>
+                            </div>
+                            <div class="header-popup__item" data-id="1">
+                                <a href="/serials/genres/2/detektiv">Детективы</a>
+                            </div>
+                            <div class="header-popup__item" data-id="2">
+                                <a href="/serials/genres/6/komediya">Комедии</a>
+                            </div>
+                            <div class="header-popup__item" data-id="3"><a href="/serials/genres/5/triller">Триллер</a></div>
+                            <div class="header-popup__item" data-id="4"><a href="/serials/genres/13/ekshn">Экшн</a></div>
+                            <div class="header-popup__item" data-id="5"><a href="/serials/genres/3/priklyucheniya">Приключения</a></div>
+                            <div class="header-popup__item" data-id="6"><a href="/serials/genres/1/drama">Драма</a></div>
+                            <div class="header-popup__item" data-id="7"><a href="/serials/genres/14/kriminal">Криминал</a></div>
+                            <div class="header-popup__item" data-id="7"><a href="/serials/genres/10/fantastika">Фантастика</a></div>
+                        </div>
+                    </div>
+                </li>
+            </ul>
+            <div class="search-box">
+                <span class="input"><span class="input__box"><input id="searchInput" class="input__control" placeholder="Введите поисковой запрос" /></span></span>
+                <i class="fa fa fa-search"></i>
+            </div>
+<div class="auth">
+        <button class="button button__control" id="logout" type="button" data-status="login">
+            <span class="button__text">Войти</span>
+        </button>
+
+</div>            <div class="header-search-suggest">
+                <div class="header-search-suggest__main">
+                    <a class="header-search-suggest__left link link-control" href="/serials/3497">
+                        <div class="header-search-suggest__title">Новинка</div>
+                        <div class="header-search-suggest__img" style="background-image: url(&quot;https://pic.showjet.ru/pics/021bf8a0-5c51-4b52-8b02-100ac64c198e/7x10/450.jpg&quot;)">
+                            <div class="header-search-suggest__name">ВАЛЬКИРИЯ</div>
+                            <div class="header-search-suggest__description">1 сезон / триллер, криминал, 2017</div>
+                        </div>
+                    </a>
+                    <div class="header-search-suggest__right">
+                        <div class="header-search-suggest__header">
+                            <div class="header-search-suggest__title">Всего найдено: </div>
+                            <div class="header-search-suggest__count"></div>
+                        </div>
+                    </div>
+                </div>
+                <a class="link link__control header-search-suggest__show-all" style="cursor: pointer;">Показать все</a>
+            </div>
+        </div>
+    </div>
+</div>    
+<!--AdFox START-->
+<!--ShowJet-->
+<!--Площадка: new.showjet.ru / new.showjet.ru / Брендирование анлим-->
+<!--Категория: <не задана>-->
+<!--Тип баннера: Брендирование анлим-->
+<script type="text/javascript" async><!--
+    if (typeof (pr) == 'undefined') { var pr = Math.floor(Math.random() * 4294967295) + 1; }
+    if (typeof (document.referrer) != 'undefined') {
+        if (typeof (afReferrer) == 'undefined') {
+            afReferrer = encodeURIComponent(document.referrer);
+        }
+    } else {
+        afReferrer = '';
+    }
+
+    var addate = new Date();
+    var pathname = window.location.pathname;
+
+
+    if (pathname.toLowerCase().indexOf("serials") >= 0) {
+
+ document.write('<scr' + 'ipt type="text/javascript" src="//ads.adfox.ru/249556/prepareCode?p1=bvxvt&p2=flrd&pct=a&pfc=a&pfb=a&plp=a&pli=a&pop=a&pr=' + pr + '&pt=b&pd=' + addate.getDate() + '&pw=' + addate.getDay() + '&pv=' + addate.getHours() + '&prr=' + afReferrer + '"><\/scr' + 'ipt>');
+        }
+
+        
+        else {
+
+            document.write('<scr' + 'ipt type="text/javascript" src="//ads.adfox.ru/249556/prepareCode?p1=bvxvt&p2=flrd&pct=a&pfc=a&pfb=a&plp=a&pli=a&pop=a&pr=' + pr + '&pt=b&pd=' + addate.getDate() + '&pw=' + addate.getDay() + '&pv=' + addate.getHours() + '&prr=' + afReferrer + '"><\/scr' + 'ipt>');
+        }
+
+
+// -->
+</script>
+<!--AdFox END-->
+
+<!-- Modal -->
+<div class="modal fade common-modal" id="popup" tabindex="-1" role="dialog">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal__header"><div class="modal__back"></div><div class="modal__title">Добро пожаловать!</div><div class="modal__close"></div></div>
+            <div class="modal__body"><div class="auth-form__auth"><div class="auth-form__description">Введите номер телефона или емэйл. Мы создадим вам аккаунт если вы не регистрировались ранее</div><div class="auth-form__form"><span class="input i-bem input_js_inited" data-bem="{&quot;input&quot;:{}}"><span class="input__box"><input class="input__control" placeholder="Телефон или e-mail"></span></span><div class="auth-form__delimmer">или</div><div class="auth-form__fast-signin"><div class="auth-form__social-signin"><a class="link link__control i-bem" data-bem="{&quot;link&quot;:{}}" role="link" href="#"><i class="fa fa fa-facebook"></i></a><a class="link link__control i-bem" data-bem="{&quot;link&quot;:{}}" role="link" href="#"><i class="fa fa fa-twitter"></i></a><a class="link link__control i-bem" data-bem="{&quot;link&quot;:{}}" role="link" href="#"><i class="fa fa fa-linkedin"></i></a></div><div class="auth-form__social-delimmer"></div><div class="auth-form__fast-signin-button"><div class="auth-form__exit"><div class="auth-form__exit-icon"></div>Быстрый вход</div></div></div></div></div></div>
+            <div class="modal__footer"><button class="button button__control i-bem" data-bem="{&quot;button&quot;:{}}" role="button" type="button">Войти</button></div>
+        </div>
+    </div>
+</div>
+    
+
+    <div class="main-block">
+        
+<div class="main-content">
+    <div class="main-content__left-side left-side">
+        <div class="main-content__preloader" style="display: none;" data-side="left"></div>
+<div class="news news_news-title_visible news_js_inited" style="margin-bottom: -125px; height: 200px;">
+    <div class="news__title-wrap">
+        <div class="news__title">
+            <div class="news__icon"></div>
+            <div class="news__title-text">НОВОСТИ</div>
+        </div>
+    </div>
+</div>
+        
+<div class="feed-left feed-left_birthday">
+        <a class="feed-left__picture-wrap" href="/persons/195627">
+            <div class="feed-left__picture">
+                <div class="feed-left__img" style="background: linear-gradient(rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.6)), url(&quot;https://pic.showjet.ru/pics/7cab3af9-0373-40fc-ab0c-0115f5bcd2d8/10x10/300.jpg&quot;);">
+                    <div class="feed-left__info">
+                        <div class="feed-left__label">День Рождения</div>
+                        <div class="feed-left__date">29 апреля 1968</div>
+                        <div class="feed-left__title">Юрген Фогель</div>
+                        <div class="feed-left__description">актёр, продюсер, Гамбург, Германия</div>
+                        <div class="like-icon"></div>
+                        <div class="repost-icon"></div><span class="icon icon_type_share"></span>
+
+<span class="icon icon_type_like " data-id="195627" data-type="Person"></span>
+                    </div>
+                </div>
+            </div>
+        </a>
+    </div>
+
+<div class="news news_with_content" data-subjects="0" data-url="/news/16482/kiran-xajnds-sygraet-s-liamom-nisonom-v-irlandskom-trillere">
+    <img src="/images/full_article_icn.svg" class="reffer_img">
+    <div class="news__picture-wrap">
+        <div class="news__picture">
+                <div class="img" style="background-color:#ffffff;
+                                      background-image: url(https://pic.showjet.ru/pics/c8cca9b1-29b6-47fa-a3ca-a20ebbf43ba2/10x10/300.jpg)"></div>
+            <div class="icon icon_type_close"><div class="icon__line icon__line_one"></div><div class="icon__line icon__line_two"></div></div>
+        </div>
+    </div>
+    <div class="news__content">
+        <div class="news__date">
+                29 апреля
+        </div>
+        <h1 class="news__news-title">Киран Хайндс сыграет с Лиамом Нисоном в ирландском триллере</h1>
+        <div class="text">
+                <p class="paragraph">Звезда фильма «Белфаст» и сериалов «Игра престолов» и «Вне подозрений» Киран Хайндс сыграет вместе с Лиамом Нисоном и Керри Кондон («Лучше звоните Солу») в триллере «В стране святых и грешников» (In The Land Of Saints And Sinners).  </p>
+                <p class="paragraph">События фильма развернутся в отдалённой ирландской деревушке, где живёт, недавно вышедший на пенсию, наёмный убийца (Нисон). Однажды он оказывается втянут в смертельную игру с тремя мстительными террористами.</p>
+                <p class="paragraph">Какая роль досталась Хайндсу, пока неизвестно. Режиссёрское кресло занял Роберт Лоренц, с которым Лиам Нисон работал над лентой «Заступник». </p>
+                <p class="paragraph">Съёмки фильма начнутся в ближайшее время в Ирландии.</p>
+        </div>
+    </div>
+
+</div>
+<div class="feed-left feed-left_birthday">
+        <a class="feed-left__picture-wrap" href="/persons/195482">
+            <div class="feed-left__picture">
+                <div class="feed-left__img" style="background: linear-gradient(rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.6)), url(&quot;https://pic.showjet.ru/pics/737b9b3b-be32-482a-ac66-55ae17429854/10x10/300.jpg&quot;);">
+                    <div class="feed-left__info">
+                        <div class="feed-left__label">День Рождения</div>
+                        <div class="feed-left__date">27 апреля 1986</div>
+                        <div class="feed-left__title">Дженна Коулман</div>
+                        <div class="feed-left__description">актриса, Блэкпул, Ланкашир, Англия, Великобритания</div>
+                        <div class="like-icon"></div>
+                        <div class="repost-icon"></div><span class="icon icon_type_share"></span>
+
+<span class="icon icon_type_like " data-id="195482" data-type="Person"></span>
+                    </div>
+                </div>
+            </div>
+        </a>
+    </div>
+
+<div class="news news_with_content" data-subjects="0" data-url="/news/16474/zvezda-mistera-robota-zakrutit-roman-s-islandkoj">
+    <img src="/images/full_article_icn.svg" class="reffer_img">
+    <div class="news__picture-wrap">
+        <div class="news__picture">
+                <div class="img" style="background-color:#ffffff;
+                                      background-image: url(https://pic.showjet.ru/pics/818b850d-7946-4dac-89c1-855ee9e4e00f/10x10/300.jpg)"></div>
+            <div class="icon icon_type_close"><div class="icon__line icon__line_one"></div><div class="icon__line icon__line_two"></div></div>
+        </div>
+    </div>
+    <div class="news__content">
+        <div class="news__date">
+                27 апреля
+        </div>
+        <h1 class="news__news-title">Звезда «Мистера Робота» закрутит роман с исландкой</h1>
+        <div class="text">
+                <p class="paragraph">Шведский актёр Мартин Вальстрём («Мистер Робот», «Бандитский Гётеборг») присоединился к исландке Аните Брием («Путешествие к Центру Земли», «Тюдоры») в сериале «Пока мы живы» (As Long As We Live).</p>
+                <p class="paragraph">Сюжет драматического проекта расскажет об отношениях. Сценарий написала сама Брием. Режиссёром выступит Катрин Бьёргвинсдоттир («Капкан»). </p>
+                <p class="paragraph">Подробности о персонажах, пока не разглашаются. Известно, что это будет международный проект, а герои будут разговаривать на исландском и английском языках.</p>
+                <p class="paragraph">Съёмки начнутся летом этого года.</p>
+        </div>
+    </div>
+
+</div>
+<div class="feed-left feed-left_birthday">
+        <a class="feed-left__picture-wrap" href="/persons/163705">
+            <div class="feed-left__picture">
+                <div class="feed-left__img" style="background: linear-gradient(rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.6)), url(&quot;https://pic.showjet.ru/pics/3b0c0bfb-bbbd-4b64-9ec4-7cb431104236/10x10/300.jpg&quot;);">
+                    <div class="feed-left__info">
+                        <div class="feed-left__label">День Рождения</div>
+                        <div class="feed-left__date">27 апреля 1979</div>
+                        <div class="feed-left__title">Кристин Боттомли</div>
+                        <div class="feed-left__description">актриса, Рокдейл, Англия</div>
+                        <div class="like-icon"></div>
+                        <div class="repost-icon"></div><span class="icon icon_type_share"></span>
+
+<span class="icon icon_type_like " data-id="163705" data-type="Person"></span>
+                    </div>
+                </div>
+            </div>
+        </a>
+    </div>
+
+<div class="news news_with_content" data-subjects="0" data-url="/news/16472/apokalipsis-segodnya-serialy-katastrofy">
+    <img src="/images/full_article_icn.svg" class="reffer_img">
+    <div class="news__picture-wrap">
+        <div class="news__picture">
+                <div class="img" style="background-color:#ffffff;
+                                      background-image: url(https://pic.showjet.ru/pics/46e2ad4b-7c79-43ca-bd6b-9e11b719a56b/10x10/300.jpg)"></div>
+            <div class="icon icon_type_close"><div class="icon__line icon__line_one"></div><div class="icon__line icon__line_two"></div></div>
+        </div>
+    </div>
+    <div class="news__content">
+        <div class="news__date">
+                26 апреля
+        </div>
+        <h1 class="news__news-title">Апокалипсис сегодня: сериалы-катастрофы</h1>
+        <div class="text">
+                <p class="paragraph">Собрали пять сериалов, сюжет которых строится вокруг реального или возможного конца света.</p>
+                <p class="paragraph">1. «Коллапс»</p>
+                <p class="paragraph">Последние дни человечества глазами французов. «Коллапс» — восемь разных историй со своими персонажами, которых объединяет одно — кризис, знаменующий закат цивилизации. В продуктовых нет еды, на заправке закончилось топливо, а деньги превратились в бумажки, которые никому не нужны. Герои понимают — помощи ждать неоткуда. Сможет ли хоть кто-то пережить Судный день? </p>
+                <p class="paragraph">2. «Подводная лодка»</p>
+                <p class="paragraph">Продолжение культового фильма Вольфганга Петерсена. Осень, 1942 год. Немецкая подводной лодка U-612 готовится к первому боевому походу под руководством неопытного капитана Клауса Хоффманна. Параллельно с этим разворачивается история переводчицы Симоны Штрассер, которая оказывается втянута в шпионскую миссию французского Сопротивления. Предаст ли девушка родную Германию? И кто выживет в этой войне?</p>
+                <p class="paragraph"> </p>
+                <p class="paragraph">3. «Невидимые» </p>
+                <p class="paragraph">Фантастическая драма о вреде современных технологий в духе «Чёрного зеркала». После того, как в городе поставили 5G-вышку многие жители стали страдать от головных болей, а другие… будто сквозь землю провалились. И пока полиция считает, что они просто уехали, Лоранс Диконде оказывается свидетельницей жуткого происшествия: кто-то будто специально проколол глаз её отцу во время операции. Но проблема в том, что в кабинете, кроме самой Лоранс и медсестры, больше никого не было… или был?</p>
+                <p class="paragraph">4. «Операция Буффало» </p>
+                <p class="paragraph">1956 год, Маралинга. Именно здесь Великобритания проводит серию испытаний ядерных бомб. Майор Лео Кармайкл — доверенное лицо, которому поручено контролировать секретный проект и следить за военным лагерем. Но накануне приезда высокопоставленных британских чиновников с базы исчезает молодая девушка. Ситуацию осложняет прибытие в лагерь нового метеоролога Евы Ллойд-Джордж — агента MI6 под прикрытием.</p>
+                <p class="paragraph">5. «Годы»</p>
+                <p class="paragraph">Пугающая драма о будущем от автора «Доктора Кто». Что произойдёт с миром в ближайшие 15 лет, если Америка запустит ядерные ракеты на территорию Китая? Через призму одной манчестерской семьи мы наблюдаем, как мир становится безумнее, политика острее, а технологии прогрессивнее. Большое семейство Лайонсов, как и все мы, надеются на лучшее, но хватит ли им мужества повлиять на историю?</p>
+        </div>
+    </div>
+
+</div>
+<div class="feed-left feed-left_birthday">
+        <a class="feed-left__picture-wrap" href="/persons/186428">
+            <div class="feed-left__picture">
+                <div class="feed-left__img" style="background: linear-gradient(rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.6)), url(&quot;https://pic.showjet.ru/pics/b2049f27-0b99-4e5a-a246-d1c2f6f4c35e/10x10/300.jpg&quot;);">
+                    <div class="feed-left__info">
+                        <div class="feed-left__label">День Рождения</div>
+                        <div class="feed-left__date">25 апреля 1972</div>
+                        <div class="feed-left__title">София Хелин</div>
+                        <div class="feed-left__description">актриса, Ховста, Швеция</div>
+                        <div class="like-icon"></div>
+                        <div class="repost-icon"></div><span class="icon icon_type_share"></span>
+
+<span class="icon icon_type_like " data-id="186428" data-type="Person"></span>
+                    </div>
+                </div>
+            </div>
+        </a>
+    </div>
+
+<div class="news news_with_content" data-subjects="0" data-url="/news/14942/oni-spasali-no-ix-ne-cenili-devushki-iz-anzak-—-samaya-krasivaya-voennaya-drama">
+    <img src="/images/full_article_icn.svg" class="reffer_img">
+    <div class="news__picture-wrap">
+        <div class="news__picture">
+                <div class="img" style="background-color:#ffffff;
+                                      background-image: url(https://pic.showjet.ru/pics/01608200-a997-4733-b00f-5e3a306bdbb7/10x10/300.jpg)"></div>
+            <div class="icon icon_type_close"><div class="icon__line icon__line_one"></div><div class="icon__line icon__line_two"></div></div>
+        </div>
+    </div>
+    <div class="news__content">
+        <div class="news__date">
+                25 апреля
+        </div>
+        <h1 class="news__news-title">Они спасали, но их не ценили: «Девушки из Анзак» — самая красивая военная драма</h1>
+        <div class="text">
+                <p class="paragraph">Ежегодно, 25 апреля, в Австралии и Новой Зеландии отмечают свой День защитника Отечества — День АНЗАК (Австралийско-Новозеландский Армейский Корпус). Впервые это название было использовано для обозначения солдат, высадившихся на турецком полуострове Галлиполи во время Первой мировой войны. </p>
+                <p class="paragraph">Отдельного внимания заслуживают медсёстры из корпуса АНЗАК, которые боролись за жизни раненых солдат. В 2008 году вышла книга Петера Риса «Другие из АНЗАК», а позже по ней был снят мини-сериал, рассказывающий о пятерых девушках. В ужасных условиях войны эти молодые, смелые и опытные героини не только спасают других, но и находят время для дружбы и любви.</p>
+                <p class="paragraph">Смотрите сериал «Девушки из Анзак» бесплатно на ShowJet!</p>
+        </div>
+    </div>
+
+</div>
+<div class="feed-left feed-left_birthday">
+        <a class="feed-left__picture-wrap" href="/persons/169557">
+            <div class="feed-left__picture">
+                <div class="feed-left__img" style="background: linear-gradient(rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.6)), url(&quot;https://pic.showjet.ru/pics/d9e226de-b0ac-46c1-b82a-d2dd6b836739/10x10/300.jpg&quot;);">
+                    <div class="feed-left__info">
+                        <div class="feed-left__label">День Рождения</div>
+                        <div class="feed-left__date">23 апреля 1962</div>
+                        <div class="feed-left__title">Джон Ханна</div>
+                        <div class="feed-left__description">актёр, продюсер, Ист Килбрайд, Шотландия</div>
+                        <div class="like-icon"></div>
+                        <div class="repost-icon"></div><span class="icon icon_type_share"></span>
+
+<span class="icon icon_type_like " data-id="169557" data-type="Person"></span>
+                    </div>
+                </div>
+            </div>
+        </a>
+    </div>
+
+<div class="news news_with_content" data-subjects="0" data-url="/news/16464/zvezda-peresekaya-chertu-sygraet-v-seriale-ot-emmy-roberts">
+    <img src="/images/full_article_icn.svg" class="reffer_img">
+    <div class="news__picture-wrap">
+        <div class="news__picture">
+                <div class="img" style="background-color:#ffffff;
+                                      background-image: url(https://pic.showjet.ru/pics/066807a0-6c71-4d38-8ba4-f113f9bfab15/10x10/300.jpg)"></div>
+            <div class="icon icon_type_close"><div class="icon__line icon__line_one"></div><div class="icon__line icon__line_two"></div></div>
+        </div>
+    </div>
+    <div class="news__content">
+        <div class="news__date">
+                23 апреля
+        </div>
+        <h1 class="news__news-title">Звезда «Пересекая черту» сыграет в сериале от Эммы Робертс</h1>
+        <div class="text">
+                <p class="paragraph">Итальяно-американская актриса Габриэлла Пессион («Пересекая черту», «Красная дверь») снимется в новом сериале «Солги мне» (Tell Me Lies) от Hulu. Исполнительным продюсером шоу выступает Эмма Робертс («Американская история ужасов»).</p>
+                <p class="paragraph">Сюжет драматического сериала будет основан на одноимённом романе Каролы Ловеринг, который рассказывает об опьяняющей любви между двумя людьми на протяжении восьми лет. Люси и Стивен вместе с колледжа. Их отношения начинались, как любой типичный роман, но выбор, который они делают, приводит к необратимым последствиям.</p>
+                <p class="paragraph">Адаптацией сценария занималась Меган Оппенхаймер («128 ударов сердца в минуту»). Режиссёром пилотного выпуска станет Джонатан Левин («Девять совсем незнакомых людей», «Жизнь прекрасна»).</p>
+        </div>
+    </div>
+
+</div>
+<div class="feed-left feed-left_birthday">
+        <a class="feed-left__picture-wrap" href="/persons/165045">
+            <div class="feed-left__picture">
+                <div class="feed-left__img" style="background: linear-gradient(rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.6)), url(&quot;https://pic.showjet.ru/pics/9aed1231-3e94-458b-9b2f-2c2e5fd8f0f6/10x10/300.jpg&quot;);">
+                    <div class="feed-left__info">
+                        <div class="feed-left__label">День Рождения</div>
+                        <div class="feed-left__date">22 апреля 1968</div>
+                        <div class="feed-left__title">Фернандо Кайо</div>
+                        <div class="feed-left__description">актёр, сценарист, Вальядолид, Испания</div>
+                        <div class="like-icon"></div>
+                        <div class="repost-icon"></div><span class="icon icon_type_share"></span>
+
+<span class="icon icon_type_like " data-id="165045" data-type="Person"></span>
+                    </div>
+                </div>
+            </div>
+        </a>
+    </div>
+
+<div class="news news_with_content" data-subjects="0" data-url="/news/16462/kolin-morgan-sygraet-v-trillere-okraina">
+    <img src="/images/full_article_icn.svg" class="reffer_img">
+    <div class="news__picture-wrap">
+        <div class="news__picture">
+                <div class="img" style="background-color:#ffffff;
+                                      background-image: url(https://pic.showjet.ru/pics/b0d50224-b9cd-4e3b-83b8-510f3292c2e7/10x10/300.jpg)"></div>
+            <div class="icon icon_type_close"><div class="icon__line icon__line_one"></div><div class="icon__line icon__line_two"></div></div>
+        </div>
+    </div>
+    <div class="news__content">
+        <div class="news__date">
+                22 апреля
+        </div>
+        <h1 class="news__news-title"> Колин Морган сыграет в триллере «Окраина»</h1>
+        <div class="text">
+                <p class="paragraph">Звезда «Мерлина» и «Краха» Колин Морган исполнит одну из главных ролей в триллере «Окраина» (Borderland). Также в фильме задействованы Фелисити Джонс, Марк Стронг и Софиа Браун («Клика»). </p>
+                <p class="paragraph">Идея проекта разрабатывалась давно. До этого на главные роли были утверждены Джон Бойега, Джейми Дорнан и Сэм Клафлин. Действие ленты развернётся на улицах Лондона и других городов в 1970-х годах. </p>
+                <p class="paragraph">Режиссёры Томас и Чарли Чард обещают зрителям захватывающее зрелище о мести. Автором сценария выступил Ронан Беннетт («Джонни Д.», «Порох»).</p>
+                <p class="paragraph">На данный момент съёмки фильма проходят в Глазго. Дата премьеры запланирована на этот год.</p>
+        </div>
+    </div>
+
+</div>
+<div class="feed-left feed-left_birthday">
+        <a class="feed-left__picture-wrap" href="/persons/202343">
+            <div class="feed-left__picture">
+                <div class="feed-left__img" style="background: linear-gradient(rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.6)), url(&quot;https://pic.showjet.ru/pics/d5da5299-7279-4657-8d28-43377c33e441/10x10/300.jpg&quot;);">
+                    <div class="feed-left__info">
+                        <div class="feed-left__label">День Рождения</div>
+                        <div class="feed-left__date">21 апреля 1990</div>
+                        <div class="feed-left__title">Жюльет Ламболи</div>
+                        <div class="feed-left__description">актриса, Париж, Франция</div>
+                        <div class="like-icon"></div>
+                        <div class="repost-icon"></div><span class="icon icon_type_share"></span>
+
+<span class="icon icon_type_like " data-id="202343" data-type="Person"></span>
+                    </div>
+                </div>
+            </div>
+        </a>
+    </div>
+
+<div class="news news_with_content" data-subjects="0" data-url="/news/14934/koroleve-elizavete-ii-—-96!">
+    <img src="/images/full_article_icn.svg" class="reffer_img">
+    <div class="news__picture-wrap">
+        <div class="news__picture">
+                <div class="img" style="background-color:#544d4d;
+                                      background-image: url(https://pic.showjet.ru/pics/8f597c7f-de53-4f3c-9fcc-246edb093fc8/10x10/300.jpg)"></div>
+            <div class="icon icon_type_close"><div class="icon__line icon__line_one"></div><div class="icon__line icon__line_two"></div></div>
+        </div>
+    </div>
+    <div class="news__content">
+        <div class="news__date">
+                21 апреля
+        </div>
+        <h1 class="news__news-title">Королеве Елизавете II — 96! </h1>
+        <div class="text">
+                <p class="paragraph">Сегодня свой 96-й день рождения празднует одна из самых долгоправящих монархов не только в истории Великобритании, но и в мире — Елизавета II. В этом году она отметит торжество не в Виндзоре, как обычно, а в Сандрингеме — именно там провёл свои последние годы покойный принц Филипп. Напомним, супруг Елизаветы II скончался 9 апреля прошлого года в возрасте 99 лет. К празднованию дня рождения присоединятся члены королевской семьи. </p>
+                <p class="paragraph">Британские монархи не раз доказывали, что их просто так не сломить. Это, ещё задолго до нынешней правительницы, доказала миру и Елизавета I, став королевой вопреки мнению общества!</p>
+                <p class="paragraph">Смотрите сериал «Елизавета I» бесплатно только на ShowJet! </p>
+        </div>
+    </div>
+
+</div>
+<div class="feed-left feed-left_birthday">
+        <a class="feed-left__picture-wrap" href="/persons/182915">
+            <div class="feed-left__picture">
+                <div class="feed-left__img" style="background: linear-gradient(rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.6)), url(&quot;https://pic.showjet.ru/pics/815b2ce9-b87c-4989-9f5f-af2f0d5855f9/10x10/300.jpg&quot;);">
+                    <div class="feed-left__info">
+                        <div class="feed-left__label">День Рождения</div>
+                        <div class="feed-left__date">20 апреля 1964</div>
+                        <div class="feed-left__title">Энди Серкис</div>
+                        <div class="feed-left__description">актёр, режиссёр, Руислип, Лондон, Англия, Великобритания</div>
+                        <div class="like-icon"></div>
+                        <div class="repost-icon"></div><span class="icon icon_type_share"></span>
+
+<span class="icon icon_type_like " data-id="182915" data-type="Person"></span>
+                    </div>
+                </div>
+            </div>
+        </a>
+    </div>
+
+    </div>
+
+    <div class="main-content__right-side">
+        <div class="main-content__preloader" style="display: none;" data-side="right"></div>
+
+
+<div class="slider">
+    <div class="slider__swiper-container swiper-container">
+        <div class="slider__swiper-wrapper swiper-wrapper">
+<!--AdFox START-->
+<!--ShowJet-->
+<!--Площадка: new.showjet.ru / new.showjet.ru / Сайт: Главная - промо-->
+<!--Категория: <не задана>-->
+<!--Тип баннера: Промо главная-->
+<script type="text/javascript">
+<!--
+if (typeof(pr) == 'undefined') { var pr = Math.floor(Math.random() * 4294967295 ) + 1; }
+if (typeof(document.referrer) != 'undefined') {
+    if (typeof(afReferrer) == 'undefined') {
+        afReferrer = encodeURIComponent(document.referrer);
+    }
+} else {
+    afReferrer = '';
+}
+var addate = new Date();
+document.write('<scr' + 'ipt type="text/javascript" src="//ads.adfox.ru/249556/prepareCode?p1=bvxyz&amp;p2=flqh&amp;pct=a&amp;pfc=a&amp;pfb=a&amp;plp=a&amp;pli=a&amp;pop=a&amp;pr=' + pr +'&amp;pt=b&amp;pd=' + addate.getDate() + '&amp;pw=' + addate.getDay() + '&amp;pv=' + addate.getHours() + '&amp;prr=' + afReferrer + '"><\/scr' + 'ipt>');
+// -->
+</script>
+<!--AdFox END-->            
+<div class="feed-right swiper-slide">
+    <a class="feed-right__picture-wrap promo-link" href="/serials/3441-xroniki-shannary"></a>
+    <div class="feed-right__picture-wrap">
+        <div class="feed-right__picture">
+            <div class="feed-right__img"
+                 style="background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(&quot;https://pic.showjet.ru/pics/a259e19b-e21c-416f-b948-567aaa05ab50/10x7/1050.jpg&quot;); background-color: white;"></div>
+        </div>
+    </div>
+    <div class="feed-right__info">
+        <div class="feed-right__label">Эксклюзив на Шоуджет</div>
+        <div class="feed-right__slogan">Для поклонников «Властелина колец»</div>
+        <div class="stars">
+                <span class="stars__star stars__star_active">★</span>
+                <span class="stars__star stars__star_active">★</span>
+                <span class="stars__star stars__star_active">★</span>
+                <span class="stars__star stars__star_active">★</span>
+                <span class="stars__star stars__star_active">★</span>
+                    </div>
+
+        <div class="feed-right__title">Хроники Шаннары</div>
+        <div class="feed-right__subtitle">The Shannara Chronicles</div>
+        <div class="feed-right__description">2 сезона / фэнтези, приключения, 2016 - 2017</div>
+        <div class="feed-right__quality">FullHD 1080p</div>
+        <div class="feed-right__rating">16&#x2B;</div>
+        <div class="progress-rating progress-rating_type_imdb i-bem" data-bem='{"progress-rating":{}}' data-rating="7.2">
+            <div class="progress-rating__rating">7.2</div>
+            <div class="progress-rating__type">imdb</div>
+        </div>
+        <div class="progress-rating progress-rating_type_kp i-bem" data-bem='{"progress-rating":{}}' data-rating="6.9">
+            <div class="progress-rating__rating">6.9</div>
+            <div class="progress-rating__type">кп</div>
+        </div><span class="icon icon_type_play icon_size_l"><div class="icon__triangle"></div></span>
+
+<span class="icon icon_type_like  icon_size_m" data-id="3441" data-type="Serial"></span>
+        
+    </div>
+</div>
+
+<div class="feed-right swiper-slide">
+    <a class="feed-right__picture-wrap promo-link" href="/serials/3476-ditya-vo-vremeni"></a>
+    <div class="feed-right__picture-wrap">
+        <div class="feed-right__picture">
+            <div class="feed-right__img"
+                 style="background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(&quot;https://pic.showjet.ru/pics/5a335be2-d917-42fe-93a5-521f6ee9f93f/10x7/1050.jpg&quot;); background-color: white;"></div>
+        </div>
+    </div>
+    <div class="feed-right__info">
+        <div class="feed-right__label">ТОП сериал</div>
+        <div class="feed-right__slogan">Пронзительная драма с Бенедиктом Камбербэтчем</div>
+        <div class="stars">
+                <span class="stars__star stars__star_active">★</span>
+                <span class="stars__star stars__star_active">★</span>
+                <span class="stars__star stars__star_active">★</span>
+                <span class="stars__star stars__star_active">★</span>
+                <span class="stars__star stars__star_active">★</span>
+                    </div>
+
+        <div class="feed-right__title">Дитя во времени</div>
+        <div class="feed-right__subtitle">The Child in Time</div>
+        <div class="feed-right__description">1 сезон / фантастика, драма, 2017</div>
+        <div class="feed-right__quality">FullHD 1080p</div>
+        <div class="feed-right__rating">16&#x2B;</div>
+        <div class="progress-rating progress-rating_type_imdb i-bem" data-bem='{"progress-rating":{}}' data-rating="6.1">
+            <div class="progress-rating__rating">6.1</div>
+            <div class="progress-rating__type">imdb</div>
+        </div>
+        <div class="progress-rating progress-rating_type_kp i-bem" data-bem='{"progress-rating":{}}' data-rating="5.9">
+            <div class="progress-rating__rating">5.9</div>
+            <div class="progress-rating__type">кп</div>
+        </div><span class="icon icon_type_play icon_size_l"><div class="icon__triangle"></div></span>
+
+<span class="icon icon_type_like  icon_size_m" data-id="3476" data-type="Serial"></span>
+        
+    </div>
+</div>
+
+<div class="feed-right swiper-slide">
+    <a class="feed-right__picture-wrap promo-link" href="/serials/878-derevnya"></a>
+    <div class="feed-right__picture-wrap">
+        <div class="feed-right__picture">
+            <div class="feed-right__img"
+                 style="background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(&quot;https://pic.showjet.ru/pics/d6bea79d-cf36-43d5-bcc8-52284e1d7d3a/10x7/1050.jpg&quot;); background-color: white;"></div>
+        </div>
+    </div>
+    <div class="feed-right__info">
+        <div class="feed-right__label">Эксклюзив на Шоуджет</div>
+        <div class="feed-right__slogan">Большая история маленького человека</div>
+        <div class="stars">
+                <span class="stars__star stars__star_active">★</span>
+                <span class="stars__star stars__star_active">★</span>
+                <span class="stars__star stars__star_active">★</span>
+                <span class="stars__star stars__star_active">★</span>
+                <span class="stars__star stars__star_active">★</span>
+                    </div>
+
+        <div class="feed-right__title">Деревня</div>
+        <div class="feed-right__subtitle">The Village</div>
+        <div class="feed-right__description">2 сезона / история, драма, 2013 - 2014</div>
+        <div class="feed-right__quality">FullHD 1080p</div>
+        <div class="feed-right__rating">16&#x2B;</div>
+        <div class="progress-rating progress-rating_type_imdb i-bem" data-bem='{"progress-rating":{}}' data-rating="7.7">
+            <div class="progress-rating__rating">7.7</div>
+            <div class="progress-rating__type">imdb</div>
+        </div>
+        <div class="progress-rating progress-rating_type_kp i-bem" data-bem='{"progress-rating":{}}' data-rating="7.7">
+            <div class="progress-rating__rating">7.7</div>
+            <div class="progress-rating__type">кп</div>
+        </div><span class="icon icon_type_play icon_size_l"><div class="icon__triangle"></div></span>
+
+<span class="icon icon_type_like  icon_size_m" data-id="878" data-type="Serial"></span>
+        
+    </div>
+</div>
+
+<div class="feed-right swiper-slide">
+    <a class="feed-right__picture-wrap promo-link" href="/serials/3482-ishhejki"></a>
+    <div class="feed-right__picture-wrap">
+        <div class="feed-right__picture">
+            <div class="feed-right__img"
+                 style="background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(&quot;https://pic.showjet.ru/pics/91dfb7c5-fc79-438a-8200-9616caa9400b/10x7/1050.jpg&quot;); background-color: white;"></div>
+        </div>
+    </div>
+    <div class="feed-right__info">
+        <div class="feed-right__label">Эксклюзив на Шоуджет</div>
+        <div class="feed-right__slogan">Самая необычная детективная пара</div>
+        <div class="stars">
+                <span class="stars__star stars__star_active">★</span>
+                <span class="stars__star stars__star_active">★</span>
+                <span class="stars__star stars__star_active">★</span>
+                <span class="stars__star stars__star_active">★</span>
+                <span class="stars__star stars__star_active">★</span>
+                    </div>
+
+        <div class="feed-right__title">Ищейки</div>
+        <div class="feed-right__subtitle">Detectives</div>
+        <div class="feed-right__description">1 сезон / семейный, комедия, 2018</div>
+        <div class="feed-right__quality">FullHD 1080p</div>
+        <div class="feed-right__rating">12&#x2B;</div>
+        <div class="progress-rating progress-rating_type_imdb i-bem" data-bem='{"progress-rating":{}}' data-rating="6.9">
+            <div class="progress-rating__rating">6.9</div>
+            <div class="progress-rating__type">imdb</div>
+        </div>
+        <div class="progress-rating progress-rating_type_kp i-bem" data-bem='{"progress-rating":{}}' data-rating="6.9">
+            <div class="progress-rating__rating">6.9</div>
+            <div class="progress-rating__type">кп</div>
+        </div><span class="icon icon_type_play icon_size_l"><div class="icon__triangle"></div></span>
+
+<span class="icon icon_type_like  icon_size_m" data-id="3482" data-type="Serial"></span>
+        
+    </div>
+</div>
+
+<div class="feed-right swiper-slide">
+    <a class="feed-right__picture-wrap promo-link" href="/serials/3390-lzhec"></a>
+    <div class="feed-right__picture-wrap">
+        <div class="feed-right__picture">
+            <div class="feed-right__img"
+                 style="background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(&quot;https://pic.showjet.ru/pics/539d838b-7aa8-4b89-983f-006335f7fbb6/10x7/1050.jpg&quot;); background-color: white;"></div>
+        </div>
+    </div>
+    <div class="feed-right__info">
+        <div class="feed-right__label">Эксклюзив на Шоуджет</div>
+        <div class="feed-right__slogan">Кому ты поверишь?</div>
+        <div class="stars">
+                <span class="stars__star stars__star_active">★</span>
+                <span class="stars__star stars__star_active">★</span>
+                <span class="stars__star stars__star_active">★</span>
+                <span class="stars__star stars__star_active">★</span>
+                <span class="stars__star stars__star_active">★</span>
+                    </div>
+
+        <div class="feed-right__title">Лжец</div>
+        <div class="feed-right__subtitle">Liar</div>
+        <div class="feed-right__description">2 сезона / триллер, драма, 2017 - ...</div>
+        <div class="feed-right__quality">FullHD 1080p</div>
+        <div class="feed-right__rating">16&#x2B;</div>
+        <div class="progress-rating progress-rating_type_imdb i-bem" data-bem='{"progress-rating":{}}' data-rating="7.1">
+            <div class="progress-rating__rating">7.1</div>
+            <div class="progress-rating__type">imdb</div>
+        </div>
+        <div class="progress-rating progress-rating_type_kp i-bem" data-bem='{"progress-rating":{}}' data-rating="6.5">
+            <div class="progress-rating__rating">6.5</div>
+            <div class="progress-rating__type">кп</div>
+        </div><span class="icon icon_type_play icon_size_l"><div class="icon__triangle"></div></span>
+
+<span class="icon icon_type_like  icon_size_m" data-id="3390" data-type="Serial"></span>
+        
+    </div>
+</div>
+
+<div class="feed-right swiper-slide">
+    <a class="feed-right__picture-wrap promo-link" href="/serials/3439-shestoj-otryad"></a>
+    <div class="feed-right__picture-wrap">
+        <div class="feed-right__picture">
+            <div class="feed-right__img"
+                 style="background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(&quot;https://pic.showjet.ru/pics/3ab41367-528f-4375-bf46-86f14cd9a967/10x7/1050.jpg&quot;); background-color: white;"></div>
+        </div>
+    </div>
+    <div class="feed-right__info">
+        <div class="feed-right__label">Эксклюзив на Шоуджет</div>
+        <div class="feed-right__slogan">От режиссёра «Родины»</div>
+        <div class="stars">
+                <span class="stars__star stars__star_active">★</span>
+                <span class="stars__star stars__star_active">★</span>
+                <span class="stars__star stars__star_active">★</span>
+                <span class="stars__star stars__star_active">★</span>
+                <span class="stars__star stars__star_active">★</span>
+                    </div>
+
+        <div class="feed-right__title">Шестой отряд</div>
+        <div class="feed-right__subtitle">Six</div>
+        <div class="feed-right__description">2 сезона / экшн, военный, 2017 - 2018</div>
+        <div class="feed-right__quality">FullHD 1080p</div>
+        <div class="feed-right__rating">16&#x2B;</div>
+        <div class="progress-rating progress-rating_type_imdb i-bem" data-bem='{"progress-rating":{}}' data-rating="7.3">
+            <div class="progress-rating__rating">7.3</div>
+            <div class="progress-rating__type">imdb</div>
+        </div>
+        <div class="progress-rating progress-rating_type_kp i-bem" data-bem='{"progress-rating":{}}' data-rating="6.1">
+            <div class="progress-rating__rating">6.1</div>
+            <div class="progress-rating__type">кп</div>
+        </div><span class="icon icon_type_play icon_size_l"><div class="icon__triangle"></div></span>
+
+<span class="icon icon_type_like  icon_size_m" data-id="3439" data-type="Serial"></span>
+        
+    </div>
+</div>
+
+        </div>
+        <div class="slider__swiper-pagination swiper-pagination"></div>
+    </div>
+</div>
+
+
+<div class="feed-right feed-right_size_s">
+    <div class="feed-right__img-container">
+                <div class="feed-right__picture-wrap">
+                    <div class="feed-right__picture">
+                        <div class="feed-right__img" style="background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(&quot;https://pic.showjet.ru/pics/c69efcf0-86ff-4176-a4e8-8114332878b8/7x10/500.jpg&quot;);"></div>
+                    </div>
+                </div>
+                <div class="feed-right__picture-wrap">
+                    <div class="feed-right__picture">
+                        <div class="feed-right__img" style="background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(&quot;https://pic.showjet.ru/pics/0d7e7162-8c74-4f24-8df1-4aa53db95975/7x10/500.jpg&quot;);"></div>
+                    </div>
+                </div>
+                <div class="feed-right__picture-wrap">
+                    <div class="feed-right__picture">
+                        <div class="feed-right__img" style="background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(&quot;https://pic.showjet.ru/pics/15dc0f30-3f24-410d-8506-610859b95ee5/7x10/500.jpg&quot;);"></div>
+                    </div>
+                </div>
+    </div>
+    <div class="feed-right__img-container serial-smalls-link">
+                <a class="feed-right__picture-wrap" href="/serials/1406-komanda">
+                </a>
+                <a class="feed-right__picture-wrap" href="/serials/3380-vne-podozrenij">
+                </a>
+                <a class="feed-right__picture-wrap" href="/serials/3373-viktoriya">
+                </a>
+    </div>
+
+    <div class="feed-right__content-container">
+
+    <div class="feed-right__info-wrap">
+        <div class="feed-right__info">
+            <div class="feed-right__label">Эксклюзив на Шоуджет</div>
+            <div class="progress-rating progress-rating_type_imdb" data-rating="7">
+                <div class="progress-rating__rating">7</div>
+                <div class="progress-rating__type">imdb</div>
+            </div>
+            <div class="progress-rating progress-rating_type_kp i-bem" data-rating="6.7">
+                <div class="progress-rating__rating">6.7</div>
+                <div class="progress-rating__type">кп</div>
+            </div>
+            <div class="feed-right-title-group">
+                <div class="stars">
+                        <span class="stars__star stars__star_active">★</span>
+                        <span class="stars__star stars__star_active">★</span>
+                        <span class="stars__star stars__star_active">★</span>
+                        <span class="stars__star stars__star_active">★</span>
+                        <span class="stars__star stars__star_active">★</span>
+                                    </div>
+                <div class="feed-right__title">Команда</div>
+                <div class="feed-right__description">2 сезона / экшн, детектив, 2015 - ...</div>
+            </div>
+
+<span class="icon icon_type_like " data-id="1406" data-type="Serial"></span>
+<div class="feed-right__rating">16&#x2B;</div>
+        </div>
+    </div>
+
+
+    <div class="feed-right__info-wrap">
+        <div class="feed-right__info">
+            <div class="feed-right__label">Эксклюзив на Шоуджет</div>
+            <div class="progress-rating progress-rating_type_imdb" data-rating="7.1">
+                <div class="progress-rating__rating">7.1</div>
+                <div class="progress-rating__type">imdb</div>
+            </div>
+            <div class="progress-rating progress-rating_type_kp i-bem" data-rating="7.3">
+                <div class="progress-rating__rating">7.3</div>
+                <div class="progress-rating__type">кп</div>
+            </div>
+            <div class="feed-right-title-group">
+                <div class="stars">
+                        <span class="stars__star stars__star_active">★</span>
+                        <span class="stars__star stars__star_active">★</span>
+                        <span class="stars__star stars__star_active">★</span>
+                        <span class="stars__star stars__star_active">★</span>
+                        <span class="stars__star stars__star_active">★</span>
+                                    </div>
+                <div class="feed-right__title">Вне подозрений</div>
+                <div class="feed-right__description">2 сезона / детектив, криминал, 2009 - 2012</div>
+            </div>
+
+<span class="icon icon_type_like " data-id="3380" data-type="Serial"></span>
+<div class="feed-right__rating">18&#x2B;</div>
+        </div>
+    </div>
+
+
+    <div class="feed-right__info-wrap">
+        <div class="feed-right__info">
+            <div class="feed-right__label">ТОП сериал</div>
+            <div class="progress-rating progress-rating_type_imdb" data-rating="8.2">
+                <div class="progress-rating__rating">8.2</div>
+                <div class="progress-rating__type">imdb</div>
+            </div>
+            <div class="progress-rating progress-rating_type_kp i-bem" data-rating="7.8">
+                <div class="progress-rating__rating">7.8</div>
+                <div class="progress-rating__type">кп</div>
+            </div>
+            <div class="feed-right-title-group">
+                <div class="stars">
+                        <span class="stars__star stars__star_active">★</span>
+                        <span class="stars__star stars__star_active">★</span>
+                        <span class="stars__star stars__star_active">★</span>
+                        <span class="stars__star stars__star_active">★</span>
+                        <span class="stars__star stars__star_active">★</span>
+                                    </div>
+                <div class="feed-right__title">Виктория</div>
+                <div class="feed-right__description">3 сезона / биография, история, 2016 - ...</div>
+            </div>
+
+<span class="icon icon_type_like " data-id="3373" data-type="Serial"></span>
+<div class="feed-right__rating">16&#x2B;</div>
+        </div>
+    </div>
+
+    </div>
+</div>
+<div class="feed-right">
+    <a  class="feed-right__picture-wrap serial-big-link" href="/serials/3402-banditskij-geteborg"></a>
+    <div class="feed-right__picture-wrap">
+        <div class="feed-right__picture">
+            <div class="feed-right__img" style="background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(&quot;https://pic.showjet.ru/pics/483099df-0fed-4443-8fda-e988c3002257/10x7/1050.jpg&quot;);"></div>
+        </div>
+    </div>
+    <div class="feed-right__info">
+        <div class="feed-right__label">Эксклюзив на Шоуджет</div>
+        <div class="feed-right__slogan"></div>
+        <div class="stars">
+                <span class="stars__star stars__star_active">★</span>
+                <span class="stars__star stars__star_active">★</span>
+                <span class="stars__star stars__star_active">★</span>
+                <span class="stars__star stars__star_active">★</span>
+                <span class="stars__star stars__star_active">★</span>
+                    </div>
+        <div class="feed-right__title">Бандитский Гётеборг</div>
+        <div class="feed-right__subtitle">Johan Falk</div>
+        <div class="feed-right__description">3 сезона / экшн, триллер, 2009 - 2015</div>
+        <div class="feed-right__quality">FullHD 1080p</div>
+        <div class="feed-right__rating">16&#x2B;</div>
+        <div class="progress-rating progress-rating_type_imdb i-bem" data-bem='{"progress-rating":{}}' data-rating="7.5">
+            <div class="progress-rating__rating">7.5</div>
+            <div class="progress-rating__type">imdb</div>
+        </div>
+        <div class="progress-rating progress-rating_type_kp i-bem" data-bem='{"progress-rating":{}}' data-rating="7.5">
+            <div class="progress-rating__rating">7.5</div>
+            <div class="progress-rating__type">кп</div>
+        </div><span class="icon icon_type_play icon_size_l"><div class="icon__triangle"></div></span>
+
+<span class="icon icon_type_like  icon_size_m" data-id="3402" data-type="Serial"></span>
+    </div>
+</div>
+
+
+
+<div class="feed-right feed-right_size_s">
+    <div class="feed-right__img-container">
+                <div class="feed-right__picture-wrap">
+                    <div class="feed-right__picture">
+                        <div class="feed-right__img" style="background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(&quot;https://pic.showjet.ru/pics/66ca83d6-a146-4cb1-aecc-028cc38a9e80/7x10/500.jpg&quot;);"></div>
+                    </div>
+                </div>
+                <div class="feed-right__picture-wrap">
+                    <div class="feed-right__picture">
+                        <div class="feed-right__img feed-right-group-img" style="background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(&quot;https://pic.showjet.ru/pics/8c244fa1-680b-4381-8b56-9a94d0566b33/7x10/500.jpg&quot;);"></div>
+                    </div>
+                </div>
+                <div class="feed-right__picture-wrap">
+                    <div class="feed-right__picture">
+                        <div class="feed-right__img" style="background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(&quot;https://pic.showjet.ru/pics/6bd310fd-3b13-4eb8-89d1-95b98a8a4a53/7x10/500.jpg&quot;);"></div>
+                    </div>
+                </div>
+    </div>
+    <div class="feed-right__img-container serial-smalls-link">
+                <a class="feed-right__picture-wrap" href="/serials/3468-neosporimoe">
+      
+5fd4
+          </a>
+                <a class="feed-right__picture-wrap"  onclick="showGroup(this);">
+                </a>
+                <a class="feed-right__picture-wrap" href="/serials/1794-most">
+                </a>
+    </div>
+
+    <div class="feed-right__content-container">
+
+    <div class="feed-right__info-wrap">
+        <div class="feed-right__info">
+            <div class="feed-right__label">ТОП сериал</div>
+            <div class="progress-rating progress-rating_type_imdb" data-rating="6.4">
+                <div class="progress-rating__rating">6.4</div>
+                <div class="progress-rating__type">imdb</div>
+            </div>
+            <div class="progress-rating progress-rating_type_kp i-bem" data-rating="6.4">
+                <div class="progress-rating__rating">6.4</div>
+                <div class="progress-rating__type">кп</div>
+            </div>
+            <div class="feed-right-title-group">
+                <div class="stars">
+                        <span class="stars__star stars__star_active">★</span>
+                        <span class="stars__star stars__star_active">★</span>
+                        <span class="stars__star stars__star_active">★</span>
+                        <span class="stars__star stars__star_active">★</span>
+                        <span class="stars__star stars__star_active">★</span>
+                                    </div>
+                <div class="feed-right__title">Неоспоримое</div>
+                <div class="feed-right__description">1 сезон / триллер, детектив, 2014</div>
+            </div>
+
+<span class="icon icon_type_like " data-id="3468" data-type="Serial"></span>
+<div class="feed-right__rating">16&#x2B;</div>
+        </div>
+    </div>
+
+<div class="feed-right__info-wrap feed-group">
+    <div class="feed-group-foto-container">
+            <div class="photo feed-group-foto-container small-div" data-stars="5" data-title="Коллапс" data-card="/serials/3478-kollaps" data-poster="https://pic.showjet.ru/pics/deea00f2-a860-49de-976b-e60add42015a/7x10/236.jpg" data-desc="Что мы будем делать, когда наступит коллапс цивилизации? &#xD;&#xA;&#xD;&#xA;Законы и правила — то, что помогает сохранять порядок в обществе. Но после дня X никто и ничто становится неважно: в продуктовых нет еды, на заправке закончилось топливо, а деньги превратились в бумажки, которые никому не нужны. «Коллапс» — восемь разных историй со своими персонажами, которых объединяет одно — кризис, знаменующий закат человеческой цивилизации. &#xD;&#xA;&#xD;&#xA;В мире теперь правят не президенты и короли, а разруха и хаос. Ресурсы заканчиваются, и герои понимают — помощи ждать неоткуда. Сможет ли хоть кто-то пережить Судный день?" data-kp="7,9" data-imdb="7,9" data-sj="5" data-subtitle="1 сезон / экшн, приключения, 2019 - ...">
+                <div class="photo-div" style="background: url(&quot;https://pic.showjet.ru/pics/deea00f2-a860-49de-976b-e60add42015a/7x10/150.jpg&quot;)"></div>
+            </div>
+            <div class="photo feed-group-foto-container small-div" data-stars="5" data-title="Подводная лодка" data-card="/serials/3440-podvodnaya-lodka" data-poster="https://pic.showjet.ru/pics/01f55103-de6a-485e-bbf6-3c70430f7050/7x10/236.jpg" data-desc="Продолжение одноимённого культового фильма Вольфганга Петерсена 1981 года. История о выборе и выживании: сериал «Подводная лодка» — хроника жестокой борьбы за жизнь в море и на суше.&#xD;&#xA;&#xD;&#xA;Осень 1942-го, оккупированная Франция, порт Ла-Рошель. Немецкая подлодка U-612 готовится к своей первой военной операции. Команда из 40 человек во главе с молодым капитаном Клаусом Хоффманном должна пройти крещение огнём и испытание пределов человеческих возможностей в замкнутом пространстве на глубине пары сотен метров. Под водой свои законы, и не всякая психика способна выдержать такое напряжение.&#xD;&#xA;&#xD;&#xA;Параллельно с этим разворачивается история переводчицы Симоны Штрассер, которая оказывается втянута в опасную любовную связь и шпионскую миссию французского Сопротивления. Ей придётся сделать нелёгкий выбор между преданностью родной Германии и освободительным движением: всё, во что верила Симона, оказалось ложью..." data-kp="6,4" data-imdb="7,4" data-sj="5" data-subtitle="1 сезон / военный, драма, 2018 - ...">
+                <div class="photo-div" style="background: url(&quot;https://pic.showjet.ru/pics/01f55103-de6a-485e-bbf6-3c70430f7050/7x10/150.jpg&quot;)"></div>
+            </div>
+            <div class="photo feed-group-foto-container small-div" data-stars="5" data-title="Невидимые" data-card="/serials/3498-nevidimye" data-poster="https://pic.showjet.ru/pics/ff081515-0ffc-4364-b2cc-ec599573acff/7x10/236.jpg" data-desc="Фантастическая драма о вреде современных технологий, которая понравится поклонникам «Чёрного зеркала».  &#xD;&#xA;&#xD;&#xA;Кто мог подумать, что при введении 5G в городе начнут творится странные вещи? Врач Лоранс, как и многие её знакомые, стала мучиться от головных болей и звона в ушах. Обратившись к руководству города с просьбой отключить вышку, они получили отказ из-за отсутствия доказательств вреда здоровью. Но они появились…&#xD;&#xA;&#xD;&#xA;Спустя время начали пропадать люди, а некоторые и вовсе утверждали, что всё время ощущают чьё-то присутствие. В этот же момент Лоранс столкнулась с трагедией: во время операции по коррекции глаз аппарат взбесился и травмировал её отца. Пока все обвиняли Лоранс в халатности, она пыталась найти доказательства невиновности. И нашла: на дисплее были отпечатки пальцев, которые врачи не могут оставить из-за перчаток. Значит помимо них в операционной был кто-то ещё. И этот кто-то… невидим.   " data-kp="6,2" data-imdb="6,2" data-sj="5" data-subtitle="1 сезон / фантастика, драма, 2020 - ...">
+                <div class="photo-div" style="background: url(&quot;https://pic.showjet.ru/pics/ff081515-0ffc-4364-b2cc-ec599573acff/7x10/150.jpg&quot;)"></div>
+            </div>
+            <div class="photo feed-group-foto-container small-div" data-stars="5" data-title="Годы" data-card="/serials/3473-gody" data-poster="https://pic.showjet.ru/pics/dd2d386e-1f13-4742-8333-21789c2bdf48/7x10/236.jpg" data-desc="Пугающая драма о будущем от автора «Доктора Кто». Главные роли исполнили британские звёзды: Эмма Томпсон («Гарри Поттер»), Рори Киннер («Чёрное зеркало»), Рассел Тови («Шерлок»), Джессика Хайнс («Зомби по имени Шон»).&#xD;&#xA;&#xD;&#xA;Лайонсы — обычная, но очень дружная семья из Манчестера. Каждый год они собираются вместе на праздновании дня рождения бабушки Мюриэль. Но 2019 год стал особенным: США сбросили ядерную бомбу на территорию Китая. Как это повлияло на общество и жизнь в целом?&#xD;&#xA;&#xD;&#xA;В течение следующих 15 лет через призму одной семьи мы наблюдаем, как мир становится безумнее, политика острее, технологии прогрессивнее. Лайонсы, как и все мы, надеются на светлое будущее и пытаются справиться с повседневными проблемами, зная, что обычная семья никогда не сможет изменить мир.&#xD;&#xA;&#xD;&#xA;Или… может?" data-kp="7,8" data-imdb="8,4" data-sj="5" data-subtitle="1 сезон / фантастика, драма, 2019">
+                <div class="photo-div" style="background: url(&quot;https://pic.showjet.ru/pics/dd2d386e-1f13-4742-8333-21789c2bdf48/7x10/150.jpg&quot;)"></div>
+            </div>
+            <div class="photo feed-group-foto-container small-div" data-stars="5" data-title="Операция Буффало" data-card="/serials/3489-operaciya-buffalo" data-poster="https://pic.showjet.ru/pics/1a97f31b-516e-4eb9-bf22-337bd61d9c45/7x10/236.jpg" data-desc="Приключенческий сериал, вдохновлённый реальными событиями. Одну из главных ролей сыграл номинант на премию «Оскар» Джеймс Кромуэлл («Зелёная миля»).&#xD;&#xA;&#xD;&#xA;1956 год, Маралинга, Южная Австралия. Именно здесь Великобритания проводит серию испытаний ядерных бомб. Майор Лео Кармайкл — доверенное лицо, которому поручено контролировать секретный проект и следить за военным лагерем. Но накануне приезда высокопоставленных британских чиновников с базы исчезает молодая девушка.&#xD;&#xA;&#xD;&#xA;Ситуацию осложняет прибытие в лагерь нового метеоролога Евы Ллойд-Джордж — агента MI6 под прикрытием, которая должна найти источник утечки информации. Став напарниками с Лео, они будут вынуждены решить, что делать с секретной информацией, ведь в эти суровые времена предать может каждый…" data-kp="6,6" data-imdb="6,6" data-sj="5" data-subtitle="1 сезон / военный, приключения, 2020">
+                <div class="photo-div" style="background: url(&quot;https://pic.showjet.ru/pics/1a97f31b-516e-4eb9-bf22-337bd61d9c45/7x10/150.jpg&quot;)"></div>
+            </div>
+    </div>
+    <div class="feed-right__info feed-right-group-title">
+        <div class="feed-right__title">Апокалипсис сегодня</div>
+        <div class="feed-right__description">Сериалы-катастрофы</div>
+    </div>
+</div>
+
+
+
+    <div class="feed-right__info-wrap">
+        <div class="feed-right__info">
+            <div class="feed-right__label">ТОП сериал</div>
+            <div class="progress-rating progress-rating_type_imdb" data-rating="8.6">
+                <div class="progress-rating__rating">8.6</div>
+                <div class="progress-rating__type">imdb</div>
+            </div>
+            <div class="progress-rating progress-rating_type_kp i-bem" data-rating="8.2">
+                <div class="progress-rating__rating">8.2</div>
+                <div class="progress-rating__type">кп</div>
+            </div>
+            <div class="feed-right-title-group">
+                <div class="stars">
+                        <span class="stars__star stars__star_active">★</span>
+                        <span class="stars__star stars__star_active">★</span>
+                        <span class="stars__star stars__star_active">★</span>
+                        <span class="stars__star stars__star_active">★</span>
+                        <span class="stars__star stars__star_active">★</span>
+                                    </div>
+                <div class="feed-right__title">Мост</div>
+                <div class="feed-right__description">4 сезона / триллер, детектив, 2011 - 2018</div>
+            </div>
+
+<span class="icon icon_type_like " data-id="1794" data-type="Serial"></span>
+<div class="feed-right__rating">16&#x2B;</div>
+        </div>
+    </div>
+
+    </div>
+</div>
+<div class="feed-right">
+    <a  class="feed-right__picture-wrap serial-big-link" href="/serials/3471-devushki-iz-anzak"></a>
+    <div class="feed-right__picture-wrap">
+        <div class="feed-right__picture">
+            <div class="feed-right__img" style="background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(&quot;https://pic.showjet.ru/pics/c5520569-1a93-4c09-b6b6-7dfe64798c29/10x7/1050.jpg&quot;);"></div>
+        </div>
+    </div>
+    <div class="feed-right__info">
+        <div class="feed-right__label">ТОП сериал</div>
+        <div class="feed-right__slogan"></div>
+        <div class="stars">
+                <span class="stars__star stars__star_active">★</span>
+                <span class="stars__star stars__star_active">★</span>
+                <span class="stars__star stars__star_active">★</span>
+                <span class="stars__star stars__star_active">★</span>
+                <span class="stars__star stars__star_active">★</span>
+                    </div>
+        <div class="feed-right__title">Девушки из Анзак</div>
+        <div class="feed-right__subtitle">Anzac Girls</div>
+        <div class="feed-right__description">1 сезон / военный, история, 2014</div>
+        <div class="feed-right__quality">FullHD 1080p</div>
+        <div class="feed-right__rating">16&#x2B;</div>
+        <div class="progress-rating progress-rating_type_imdb i-bem" data-bem='{"progress-rating":{}}' data-rating="7.9">
+            <div class="progress-rating__rating">7.9</div>
+            <div class="progress-rating__type">imdb</div>
+        </div>
+        <div class="progress-rating progress-rating_type_kp i-bem" data-bem='{"progress-rating":{}}' data-rating="7">
+            <div class="progress-rating__rating">7</div>
+            <div class="progress-rating__type">кп</div>
+        </div><span class="icon icon_type_play icon_size_l"><div class="icon__triangle"></div></span>
+
+<span class="icon icon_type_like  icon_size_m" data-id="3471" data-type="Serial"></span>
+    </div>
+</div>
+
+    </div>
+</div>
+
+
+    </div>
+<div class="footer" style="z-index:1000;">
+    <div class="footer__wrapper">
+        <div class="footer__top-wrap">
+            <div class="footer__top">
+                <ul class="footer-menu">
+                    <li class="footer-menu__item">
+                        <a class="link link__control" href="/about">О сервисе</a>
+                    </li>
+                    <li class="footer-menu__item">
+                        <a class="link link__control" href="/faq">FAQ</a>
+                    </li>
+                    <li class="footer-menu__item">
+                        <a class="link link__control" href="/contacts">Контакты</a>
+                    </li>
+                    <li class="footer-menu__item">
+                        <a class="link link__control" href="/terms">Политика конфиденциальности</a>
+                    </li>
+                    <li class="footer-menu__item">
+                        <a class="link link__control" href="/terms">Пользовательское соглашение</a>
+                    </li>
+                    <li class="footer-menu__item">
+                        <a class="link link__control" onclick="Showjet.Auth.LoadTempate('',Showjet.Auth.supportView)" style="cursor: pointer;">Напишите нам</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+        <div class="footer__bottom-wrap">
+            <div class="footer__logo"></div>
+            <div class="footer__bottom">
+                <div class="mobile-apps">
+                    <div class="mobile-apps__title">Мобильное приложение ShowJet:</div>
+                    <a target="_blank" class="link link__control" href="https://play.google.com/store/apps/details?id=ru.showjet.cinema&referrer=utm_source%3Dshowjet%26utm_medium%3Dsite%26utm_content%3Dlogolink%26utm_campaign%3Dshowjet">
+                        <div class="link__google-play mobile-apps__google-play"></div>
+                    </a>
+                    <a target="_blank" class="link link__control" href="https://itunes.apple.com/app/apple-store/id1010683990?pt=117863613&ct=site&mt=8">
+                        <div class="link__app-store mobile-apps__app-store"></div>
+                    </a>
+                </div>
+                <div class="social-buttons">
+                    <div class="social-buttons__button">
+                        <a class="link link__control" href="https://www.facebook.com/OfficialShowJet/" tabindex="0">
+                            <i class="fa fa-facebook"></i>
+                        </a>
+                    </div>
+                    <div class="social-buttons__button">
+                        <a class="link link__control" href="https://twitter.com/ShowJetOfficial" tabindex="0">
+                            <i class="fa fa-twitter"></i>
+                        </a>
+                    </div>
+                    <div class="social-buttons__button">
+                        <a class="link link__control" href="https://vk.com/showjet" tabindex="0">
+                            <i class="fa fa-vk"></i>
+                        </a>
+                    </div>
+                    <div class="social-buttons__button">
+                        <a class="link link__control" href="https://ok.ru/group/52802239529171" tabindex="0">
+                            <i class="fa fa-odnoklassniki"></i>
+                        </a>
+                    </div>
+                    <div class="social-buttons__button">
+                        <a class="link link__control" href="http://chats.viber.com/showjet" tabindex="0">
+                            <i class="fa fa-viber"></i>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+    <script src="https://code.jquery.com/jquery-3.2.1.min.js" crossorigin="anonymous"></script>
+<script>(window.jQuery||document.write("\u003Cscript src=\u0022\/lib\/jquery\/dist\/jquery.min.js\u0022 crossorigin=\u0022anonymous\u0022\u003E\u003C\/script\u003E"));</script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-circle-progress/1.2.2/circle-progress.js" crossorigin="anonymous"></script>
+<script>(window.jQuery.circleProgress||document.write("\u003Cscript src=\u0022\/lib\/jquery-circle-progress\/dist\/circle-progress.min.js\u0022 crossorigin=\u0022anonymous\u0022\u003E\u003C\/script\u003E"));</script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.19.3/moment.min.js" crossorigin="anonymous"></script>
+<script>(window.moment||document.write("\u003Cscript src=\u0022\/js\/External\/moment-with-locales.min.js\u0022 crossorigin=\u0022anonymous\u0022\u003E\u003C\/script\u003E"));</script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.19.3/locale/ru.js"
+            crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/smooth-scrollbar/8.2.5/smooth-scrollbar.js" crossorigin="anonymous"></script>
+<script>(window.Scrollbar||document.write("\u003Cscript src=\u0022\/js\/External\/smooth-scrollbar\/smooth-scrollbar.js\u0022 crossorigin=\u0022anonymous\u0022\u003E\u003C\/script\u003E"));</script>
+    <script src="/js/site.min.js?v=iPn820ai16vk4aHvmyM7PPtwMSFdL0HdL-vT0VNmNYQ"></script>
+
+    
+    <script src="/lib/swiper/dist/js/swiper.min.js"></script>
+    <script src="/js/main.min.js?v=9LIi7_hmRbQ2Aq2Do90DVogI5ZhNdYOQboz2KW7JhgA"></script>
+
+
+
+<!-- Global Site Tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-65082167-1"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments) };
+    gtag('js', new Date());
+
+    gtag('config', 'UA-65082167-1');
+</script>
+<!---->
+<!-- mytarget -->
+<!-- mytarget -->
+<!-- Rating@Mail.ru counter -->
+    <script type="text/javascript" async>
+        var _tmr = window._tmr || (window._tmr = []);
+        _tmr.push({ id: "2846144", type: "pageView", start: (new Date()).getTime() });
+        (function (d, w, id) {
+            if (d.getElementById(id)) return;
+            var ts = d.createElement("script"); ts.type = "text/javascript"; ts.async = true; ts.id = id;
+            ts.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//top-fwz1.mail.ru/js/code.js";
+            var f = function () { var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ts, s); };
+            if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); }
+        })(document, window, "topmailru-code");
+    </script>
+    <noscript>
+        <div>
+            <img src="//top-fwz1.mail.ru/counter?id=2846144;js=na" style="border:0;position:absolute;left:-9999px;" alt="" />
+        </div>
+    </noscript>
+<!-- //Rating@Mail.ru counter -->
+<!-- Yandex.Metrika counter -->
+<script async type="text/javascript">
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function () {
+            try {
+                w.yaCounter31407033 = new Ya.Metrika({
+                    id: 31407033,
+                    clickmap: true,
+                    trackLinks: true,
+                    accurateTrackBounce: true
+                });
+            } catch (e) {
+            }
+        });
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/watch.js";
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else {
+            f();
+        }
+    })(document, window, "yandex_metrika_callbacks");
+</script> <noscript>
+    <div>
+        <img src="https://mc.yandex.ru/watch/31407033" style="position: absolute; left: -9999px;" alt="" />
+    </div>
+</noscript>
+<!-- /Yandex.Metrika counter -->
+<!-- tns-counter.ru -->
+        <script type="text/javascript">
+            (new Image()).src = '//www.tns-counter.ru/V13a***R>' + document.referrer.replace(/\*/g, '%2a') + '*showjet_ru/ru/UTF-8/tmsec=showjet_total/' + Math.round(Math.random() * 1E9);
+        </script>
+        <noscript>
+            <img src="http://www.tns-counter.ru/V13a****showjet_ru/ru/UTF-8/tmsec=showjet_total/" width="1" height="1" alt="" />
+        </noscript>
+        <!-- Dop промеры-->
+<!--/ tns-counter.ru -->
+    <script charset="UTF-8" src="//cdn.sendpulse.com/js/push/8aa94b572bcd8a705d0c981ede6cebae_1.js" async></script>
+
+
+
+</body>
+</html>
+
+0
+

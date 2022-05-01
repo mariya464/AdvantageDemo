@@ -1,0 +1,13 @@
+[t30]
+SnapshotXmlFile=snapshot_30.xml
+ContentType=application/xml
+StepName=Custom Request: AccountLogoutRequest_2
+Total=1
+FileName1=t30.xml
+RequestHeaderFile=t30_RequestHeader.txt
+ResponseHeaderFile=t30_ResponseHeader.txt
+RawStepEndTime=1651305941077
+RawStepName=AccountLogoutRequest_2
+RequestBodyFile=t30_RequestBody.txt
+RawStepStartTime=1651305940884
+URL1=http://18.212.178.84:8081//accountservice/ws/AccountLogoutRequest

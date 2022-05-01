@@ -1,0 +1,14 @@
+POST /order/api/v1/orders/users/102485235 HTTP/1.1
+Host: 18.212.178.84
+Connection: keep-alive
+Content-Length: 1012
+Accept: application/json, text/plain, */*
+Authorization: Basic aXZhbjE6MTIyMTEySXZhbg==
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36
+content-type: application/json
+Origin: http://18.212.178.84
+Referer: http://18.212.178.84/
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: JSESSIONID=624EC0DB9E691806555C4A12A298D7C3; _ga=GA1.1.1407658141.1651259723; _gid=GA1.1.1769308473.1651259723; _gat=1
+

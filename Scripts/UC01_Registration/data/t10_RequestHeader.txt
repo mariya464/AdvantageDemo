@@ -1,0 +1,13 @@
+POST //accountservice/ws/AccountCreateRequest HTTP/1.1
+Host: 18.212.178.84:8081
+Connection: keep-alive
+Content-Length: 777
+Accept: application/xml, text/xml, */*; q=0.01
+SOAPAction: com.advantage.online.store.accountserviceAccountCreateRequest
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36
+Content-Type: text/xml; charset=UTF-8
+Origin: http://18.212.178.84
+Referer: http://18.212.178.84/
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+

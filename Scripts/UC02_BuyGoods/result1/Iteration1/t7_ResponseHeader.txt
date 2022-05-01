@@ -1,0 +1,15 @@
+HTTP/1.1 200 
+Expires: 0
+Cache-control: no-store
+Set-Cookie: JSESSIONID=3ADA4AC99AB2E171AC996016C91A3A2C; Path=/order; HttpOnly
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+X-Frame-Options: DENY
+vary: accept-encoding
+Content-Encoding: gzip
+Content-Type: application/json
+Transfer-Encoding: chunked
+Date: Sat, 30 Apr 2022 08:04:18 GMT
+Keep-Alive: timeout=20
+Connection: keep-alive
+

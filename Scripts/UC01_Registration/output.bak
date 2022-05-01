@@ -1,0 +1,95 @@
+Virtual User Script started at: 30.04.2022 10:51:18
+Starting action vuser_init.
+Web Turbo Replay of LoadRunner 2020.0.0 for Windows 10; build 793 (ноя 27 2019 19:51:20)  	[MsgId: MMSG-26983]
+Run mode: HTML  	[MsgId: MMSG-26993]
+Replay user agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36  	[MsgId: MMSG-26988]
+Runtime Settings file: "C:\Users\Professional\Desktop\обучение\НТ\Advantage Demo\Scripts\UC01\\default.cfg"  	[MsgId: MMSG-27141]
+Ending action vuser_init.
+Running Vuser...
+Starting iteration 1.
+Maximum number of concurrent connections per server: 6  	[MsgId: MMSG-26989]
+Starting action Action.
+Action.c(3): Notify: Transaction "UC01_Registration" started.
+Action.c(5): Notify: Transaction "open_site" started.
+Action.c(9): web_set_sockets_option started  	[MsgId: MMSG-26355]
+Action.c(9): web_set_sockets_option was successful  	[MsgId: MMSG-26392]
+Action.c(21): web_url("ALL") started  	[MsgId: MMSG-26355]
+Action.c(21): web_url("ALL") was successful, 6541 body bytes, 335 header bytes, 106 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(31): web_add_header("Access-Control-Request-Headers") started  	[MsgId: MMSG-26355]
+Action.c(31): web_add_header("Access-Control-Request-Headers") was successful  	[MsgId: MMSG-26392]
+Action.c(34): web_add_header("Access-Control-Request-Method") started  	[MsgId: MMSG-26355]
+Action.c(34): web_add_header("Access-Control-Request-Method") was successful  	[MsgId: MMSG-26392]
+Action.c(37): web_add_auto_header("Origin") started  	[MsgId: MMSG-26355]
+Action.c(37): web_add_auto_header("Origin") was successful  	[MsgId: MMSG-26392]
+Action.c(40): web_add_header("Sec-Fetch-Mode") started  	[MsgId: MMSG-26355]
+Action.c(40): web_add_header("Sec-Fetch-Mode") was successful  	[MsgId: MMSG-26392]
+Action.c(43): web_custom_request("GetAccountConfigurationRequest") started  	[MsgId: MMSG-26355]
+Action.c(43): web_custom_request("GetAccountConfigurationRequest") was successful, 2 body bytes, 500 header bytes, 10 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(53): web_add_header("SOAPAction") started  	[MsgId: MMSG-26355]
+Action.c(53): web_add_header("SOAPAction") was successful  	[MsgId: MMSG-26392]
+Action.c(56): web_custom_request("GetAccountConfigurationRequest_2") started  	[MsgId: MMSG-26355]
+Action.c(56): web_custom_request("GetAccountConfigurationRequest_2") was successful, 823 body bytes, 619 header bytes  	[MsgId: MMSG-26386]
+Action.c(69): web_add_cookie started  	[MsgId: MMSG-26355]
+Action.c(69): web_add_cookie was successful  	[MsgId: MMSG-26392]
+Action.c(71): web_remove_auto_header("Origin") started  	[MsgId: MMSG-26355]
+Action.c(71): Previous automatically added web header for "Origin" removed  	[MsgId: MMSG-26587]
+Action.c(71): web_remove/revert_auto_header("Origin") was successful  	[MsgId: MMSG-26392]
+Action.c(73): web_url("categories") started  	[MsgId: MMSG-26355]
+Action.c(73): web_url("categories") was successful, 4465 body bytes, 335 header bytes, 78 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(83): web_websocket_close started  	[MsgId: MMSG-26355]
+Action.c(83): Warning -35046: The WebSocket whose ID is "0" is not connected  	[MsgId: MWAR-35046]
+Action.c(83): web_websocket_close highest severity level was "warning"  	[MsgId: MMSG-26391]
+Action.c(87): web_url("search") started  	[MsgId: MMSG-26355]
+Action.c(87): web_url("search") was successful, 351 body bytes, 335 header bytes, 22 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(97): Notify: Transaction "open_site" ended with a "Pass" status (Duration: 1.9797 Wasted Time: 0.2656).
+Action.c(99): Notify: Transaction "registration" started.
+Action.c(101): web_reg_find started  	[MsgId: MMSG-26355]
+Action.c(101): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(104): web_url("register-page.html") started  	[MsgId: MMSG-26355]
+Action.c(104): Registered web_reg_find successful for "Text=CREATE_ACCOUNT" (count=2)  	[MsgId: MMSG-26364]
+Action.c(104): web_url("register-page.html") was successful, 1469 body bytes, 366 header bytes, 31 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(114): web_add_header("Access-Control-Request-Headers") started  	[MsgId: MMSG-26355]
+Action.c(114): web_add_header("Access-Control-Request-Headers") was successful  	[MsgId: MMSG-26392]
+Action.c(117): web_add_header("Access-Control-Request-Method") started  	[MsgId: MMSG-26355]
+Action.c(117): web_add_header("Access-Control-Request-Method") was successful  	[MsgId: MMSG-26392]
+Action.c(120): web_add_auto_header("Origin") started  	[MsgId: MMSG-26355]
+Action.c(120): web_add_auto_header("Origin") was successful  	[MsgId: MMSG-26392]
+Action.c(123): web_add_header("Sec-Fetch-Mode") started  	[MsgId: MMSG-26355]
+Action.c(123): web_add_header("Sec-Fetch-Mode") was successful  	[MsgId: MMSG-26392]
+Action.c(126): web_custom_request("GetCountriesRequest") started  	[MsgId: MMSG-26355]
+Action.c(126): web_custom_request("GetCountriesRequest") was successful, 2 body bytes, 500 header bytes, 10 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(136): web_add_header("SOAPAction") started  	[MsgId: MMSG-26355]
+Action.c(136): web_add_header("SOAPAction") was successful  	[MsgId: MMSG-26392]
+Action.c(139): web_custom_request("GetCountriesRequest_2") started  	[MsgId: MMSG-26355]
+Action.c(139): web_custom_request("GetCountriesRequest_2") was successful, 4177 body bytes, 673 header bytes, 77 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(152): Notify: Transaction "registration" ended with a "Pass" status (Duration: 2.6199 Wasted Time: 0.0367).
+Action.c(154): Notify: Transaction "data_input" started.
+Action.c(156): web_reg_find started  	[MsgId: MMSG-26355]
+Action.c(156): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(159): web_add_header("Access-Control-Request-Headers") started  	[MsgId: MMSG-26355]
+Action.c(159): web_add_header("Access-Control-Request-Headers") was successful  	[MsgId: MMSG-26392]
+Action.c(162): web_add_header("Access-Control-Request-Method") started  	[MsgId: MMSG-26355]
+Action.c(162): web_add_header("Access-Control-Request-Method") was successful  	[MsgId: MMSG-26392]
+Action.c(165): web_add_header("Sec-Fetch-Mode") started  	[MsgId: MMSG-26355]
+Action.c(165): web_add_header("Sec-Fetch-Mode") was successful  	[MsgId: MMSG-26392]
+Action.c(168): lr_think_time: 46.00 seconds.
+Action.c(171): web_add_header("SOAPAction") started  	[MsgId: MMSG-26355]
+Action.c(171): web_add_header("SOAPAction") was successful  	[MsgId: MMSG-26392]
+Action.c(174): web_custom_request("AccountCreateRequest") started  	[MsgId: MMSG-26355]
+Action.c(174): Registered web_reg_find successful for "Text=New user created successfully" (count=1)  	[MsgId: MMSG-26364]
+Action.c(174): web_custom_request("AccountCreateRequest") was successful, 415 body bytes, 619 header bytes  	[MsgId: MMSG-26386]
+Action.c(188): web_add_header("Access-Control-Request-Headers") started  	[MsgId: MMSG-26355]
+Action.c(188): web_add_header("Access-Control-Request-Headers") was successful  	[MsgId: MMSG-26392]
+Action.c(191): web_add_header("Access-Control-Request-Method") started  	[MsgId: MMSG-26355]
+Action.c(191): web_add_header("Access-Control-Request-Method") was successful  	[MsgId: MMSG-26392]
+Action.c(194): web_add_header("Sec-Fetch-Mode") started  	[MsgId: MMSG-26355]
+Action.c(194): web_add_header("Sec-Fetch-Mode") was successful  	[MsgId: MMSG-26392]
+Action.c(196): Notify: Transaction "data_input" ended with a "Pass" status (Duration: 46.3853 Think Time: 46.0003 Wasted Time: 0.0084).
+Action.c(198): Notify: Transaction "UC01_Registration" ended with a "Pass" status (Duration: 51.0118 Think Time: 46.0003 Wasted Time: 0.3107).
+Ending action Action.
+Warning -26671: Pending "web_add_header" detected and reset at the end of iteration number 1  	[MsgId: MWAR-26671]
+Ending iteration 1.
+Ending Vuser...
+Starting action vuser_end.
+Ending action vuser_end.
+Vuser Terminated.

@@ -1,0 +1,13 @@
+[t29]
+SnapshotXmlFile=snapshot_29.xml
+ContentType=DummyContentType
+StepName=Custom Request: AccountLogoutRequest
+Total=1
+FileName1=t29.UNK
+RequestHeaderFile=t29_RequestHeader.txt
+ResponseHeaderFile=t29_ResponseHeader.txt
+RawStepEndTime=1651305940822
+RawStepName=AccountLogoutRequest
+RequestBodyFile=t29_RequestBody.txt
+RawStepStartTime=1651305940540
+URL1=http://18.212.178.84:8081//accountservice/ws/AccountLogoutRequest

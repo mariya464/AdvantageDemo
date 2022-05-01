@@ -1,0 +1,13 @@
+[t25]
+SnapshotXmlFile=snapshot_25.xml
+ContentType=DummyContentType
+StepName=Custom Request: AddSafePayMethodRequest
+Total=1
+FileName1=t25.UNK
+RequestHeaderFile=t25_RequestHeader.txt
+ResponseHeaderFile=t25_ResponseHeader.txt
+RawStepEndTime=1651305929462
+RawStepName=AddSafePayMethodRequest
+RequestBodyFile=t25_RequestBody.txt
+RawStepStartTime=1651305929313
+URL1=http://18.212.178.84:8081//accountservice/ws/AddSafePayMethodRequest

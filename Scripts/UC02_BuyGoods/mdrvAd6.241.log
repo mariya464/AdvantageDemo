@@ -1,0 +1,14 @@
+Start auto log messages stack - Iteration 6.	[MsgId: MMSG-10545]
+Action.c(182): web_url("products") started  	[MsgId: MMSG-26355]
+Action.c(182): Registered web_reg_find successful for "Text=MICE" (count=3)  	[MsgId: MMSG-26364]
+Action.c(182): web_url("products") was successful, 2378 body bytes, 335 header bytes, 50 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(192): web_url("attributes") started  	[MsgId: MMSG-26355]
+Action.c(192): web_url("attributes") was successful, 552 body bytes, 335 header bytes, 28 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(202): Notify: Transaction "click_mice" ended with a "Pass" status (Duration: 1,0114 Wasted Time: 0,0001).	[MsgId: MMSG-16871]
+Action.c(204): lr_think_time: 23,00 seconds.	[MsgId: MMSG-15948]
+Action.c(206): Notify: Transaction "selection_mice" started.	[MsgId: MMSG-16999]
+Action.c(208): web_url("27") started  	[MsgId: MMSG-26355]
+Action.c(208): Error -27721: Step download timeout (120 seconds) has expired when downloading resource "http://18.212.178.84/catalog/api/v1/products/27"  	[MsgId: MERR-27721]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+

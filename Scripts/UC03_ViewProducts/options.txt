@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\Professional\Desktop\обучение\НТ\Advantage Demo\Scripts\UC03
+-IC:\Program Files (x86)\Micro Focus\LoadRunner\include
+-ec:\users\professional\desktop\обучение\нт\advantage demo\scripts\uc03\\logfile.log
+c:\users\professional\desktop\обучение\нт\advantage demo\scripts\uc03\\combined_UC03.c
+c:\users\professional\desktop\обучение\нт\advantage demo\scripts\uc03\\pre_cci.c

@@ -1,0 +1,13 @@
+[t12]
+SnapshotXmlFile=snapshot_12.xml
+ContentType=application/json
+StepName=Url: products_2
+Total=1
+FileName1=t12.json
+RequestHeaderFile=t12_RequestHeader.txt
+ResponseHeaderFile=t12_ResponseHeader.txt
+RawStepEndTime=1651305890653
+RawStepName=products_2
+RequestBodyFile=t12_RequestBody.txt
+RawStepStartTime=1651305890337
+URL1=http://18.212.178.84/catalog/api/v1/categories/5/products

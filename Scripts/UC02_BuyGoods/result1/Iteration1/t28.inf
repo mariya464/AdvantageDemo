@@ -1,0 +1,13 @@
+[t28]
+SnapshotXmlFile=snapshot_28.xml
+ContentType=application/json
+StepName=Custom Request: {UserId}_4
+Total=1
+FileName1=t28.json
+RequestHeaderFile=t28_RequestHeader.txt
+ResponseHeaderFile=t28_ResponseHeader.txt
+RawStepEndTime=1651305930455
+RawStepName={UserId}_4
+RequestBodyFile=t28_RequestBody.txt
+RawStepStartTime=1651305930257
+URL1=http://18.212.178.84/order/api/v1/carts/729314003

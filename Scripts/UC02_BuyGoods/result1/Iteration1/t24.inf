@@ -1,0 +1,13 @@
+[t24]
+SnapshotXmlFile=snapshot_24.xml
+ContentType=application/xml
+StepName=Custom Request: GetCountriesRequest_2
+Total=1
+FileName1=t24.xml
+RequestHeaderFile=t24_RequestHeader.txt
+ResponseHeaderFile=t24_ResponseHeader.txt
+RawStepEndTime=1651305912194
+RawStepName=GetCountriesRequest_2
+RequestBodyFile=t24_RequestBody.txt
+RawStepStartTime=1651305910380
+URL1=http://18.212.178.84:8081//accountservice/ws/GetCountriesRequest

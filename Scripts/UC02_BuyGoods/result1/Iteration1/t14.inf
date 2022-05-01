@@ -1,0 +1,13 @@
+[t14]
+SnapshotXmlFile=snapshot_14.xml
+ContentType=DummyContentType
+StepName=Custom Request: GetAccountByIdRequest
+Total=1
+FileName1=t14.UNK
+RequestHeaderFile=t14_RequestHeader.txt
+ResponseHeaderFile=t14_ResponseHeader.txt
+RawStepEndTime=1651305903532
+RawStepName=GetAccountByIdRequest
+RequestBodyFile=t14_RequestBody.txt
+RawStepStartTime=1651305903248
+URL1=http://18.212.178.84:8081//accountservice/ws/GetAccountByIdRequest
